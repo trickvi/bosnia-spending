@@ -83,8 +83,8 @@ Excludes:  civil defence (02.2.0);  forces especially trained and equipped for f
 - legal representation and advice on behalf of government or on behalf of others provided by government in cash or in services.
 Includes:  administrative tribunals, ombudsmen and the like.
 Excludes:  prison administration (03.4.0)."
-03.4,Prisons,Prisons,,,
-03.4.0,Prisons  (CS),,,,"- Administration, operation or support of prisons and other places for the detention or rehabilitation of criminals such as prison farms, workhouses, reformatories, borstals, asylums for the criminally insane, etc."
+03.4,Prisons,Prisons,Zatvori,,
+03.4.0,Prisons  (CS),,Zatvori,,"- Administration, operation or support of prisons and other places for the detention or rehabilitation of criminals such as prison farms, workhouses, reformatories, borstals, asylums for the criminally insane, etc."
 03.5,R&D Public order and safety,Research into Order & Safety,,,"Definitions of basic research, applied research and experimental development are given under (01.4) and (01.5)."
 03.5.0,R&D Public order and safety  (CS),,,,"- Administration and operation of government agencies engaged in applied research and experimental development related to public order and safety;
 - grants, loans or subsidies to support applied research and experimental development related to public order and safety undertaken by non-government bodies such as research institutes and universities.
@@ -112,7 +112,7 @@ Excludes:  economic and commercial affairs of a particular industry (classified 
 - production and dissemination of general information, technical documentation and statistics on agricultural affairs and services;
 - compensation, grants, loans or subsidies to farmers in connection with agricultural activities, including payments for restricting or encouraging output of a particular crop or for allowing land to remain uncultivated.
 Excludes:  multi-purpose development projects (04.7.4)."
-04.2.2,Forestry  (CS),Forests,,,"- Administration of forestry affairs and services;  conservation, extension and rationalized exploitation of forest reserves;  supervision and regulation of forest operations and issuance of tree-felling licences;
+04.2.2,Forestry  (CS),Forests,Šume,,"- Administration of forestry affairs and services;  conservation, extension and rationalized exploitation of forest reserves;  supervision and regulation of forest operations and issuance of tree-felling licences;
 - operation or support of reforestation work, pest and disease control, forest fire-fighting and fire prevention services and extension services to forest operators;
 - production and dissemination of general information, technical documentation and statistics on forestry affairs and services;
 - grants, loans or subsidies to support commercial forest activities.
@@ -228,7 +228,7 @@ Excludes:  administration of price and other controls applied to the producer (c
 - production and dissemination of general information, technical documentation and statistics on multi-purpose development project affairs and services;
 - grants, loans or subsidies to support the construction, operation, maintenance or upgrading of multi-purpose development projects;
 Excludes:  projects with one main function and other functions that are secondary (classified according to main function)."
-04.8,R&D Economic affairs,Research into Infrastructure,,,"Definitions of basic research, applied research and experimental development are given under (01.4) and (01.5)."
+04.8,R&D Economic affairs,Research into Infrastructure,Ekonomska istraživanja,,"Definitions of basic research, applied research and experimental development are given under (01.4) and (01.5)."
 04.8.1,"R&D General economic, commercial and labour affairs  (CS)",,,,"- Administration and operation of government agencies engaged in applied research and experimental development related to general economic, commercial and labour affairs;
 - grants, loans or subsidies to support applied research and experimental development related to general economic, commercial and labour affairs undertaken by non-government bodies such as research institutes and universities.
 Excludes:  basic research (01.4.0)."
@@ -238,7 +238,7 @@ Excludes:  basic research (01.4.0)."
 04.8.3,R&D Fuel and energy  (CS),,,,"- Administration and operation of government agencies engaged in applied research and experimental development related to fuel and energy;
 - grants, loans or subsidies to support applied research and experimental development related to fuel and energy undertaken by non-government bodies such as research institutes and universities.
 Excludes:  basic research (01.4.0)."
-04.8.4,"R&D Mining, manufacturing and construction  (CS)",,,,"- Administration and operation of government agencies engaged in applied research and experimental development related to mining, manufacturing and construction;
+04.8.4,"R&D Mining, manufacturing and construction  (CS)",,Geološka istraživanja,,"- Administration and operation of government agencies engaged in applied research and experimental development related to mining, manufacturing and construction;
 - grants, loans or subsidies to support applied research and experimental development related to mining, manufacturing and construction undertaken by non-government bodies such as research institutes and universities.
 Excludes:  basic research (01.4.0)."
 04.8.5,R&D Transport  (CS),,,,"- Administration and operation of government agencies engaged in applied research and experimental development related to transport;
@@ -277,8 +277,8 @@ These activities include construction, maintenance and operation of monitoring s
 05.5.0,R&D Environmental protection  (CS),,,,"- Administration and operation of government agencies engaged in applied research and experimental development related to environmental protection;
 - grants, loans or subsidies to support applied research and experimental development related to environmental protection undertaken by non-government bodies such as research institutes and universities.
 Excludes:  basic research (01.4.0)."
-05.6,Environmental protection n.e.c.,Environmental Protection Admin,,,
-05.6.0,Environmental protection n.e.c.  (CS),,,,"- Administration, management, regulation, supervision, operation and support of activities such as formulation, administration, coordination and monitoring of overall policies, plans, programmes and budgets for the promotion of environmental protection;  preparation and enforcement of legislation and standards for the provision of environmental protection services;  production and dissemination of general information, technical documentation and statistics on environmental protection.
+05.6,Environmental protection n.e.c.,Environmental Protection Admin,Politika okoliša,,
+05.6.0,Environmental protection n.e.c.  (CS),,Politika okoliša,,"- Administration, management, regulation, supervision, operation and support of activities such as formulation, administration, coordination and monitoring of overall policies, plans, programmes and budgets for the promotion of environmental protection;  preparation and enforcement of legislation and standards for the provision of environmental protection services;  production and dissemination of general information, technical documentation and statistics on environmental protection.
 Includes:  environmental protection affairs and services that cannot be assigned to (05.1), (05.2), (05.3), (05.4) or (05.5)."
 06,Housing and community amenities,Our Streets,Naše ulice,#cc6666,
 06.1,Housing development,Housing,Stambeno,,
@@ -287,8 +287,8 @@ Includes:  environmental protection affairs and services that cannot be assigned
 - production and dissemination of public information, technical documentation and statistics on housing development affairs and services;
 - grants, loans or subsidies to support the expansion, improvement or maintenance of the housing stock.
 Excludes:  development and regulation of construction standards (04.4.3);  cash benefits and benefits in kind to help households meet the cost of housing (10.6.0)."
-06.2,Community development,Community,,,
-06.2.0,Community development  (CS),,,,"- Administration of community development affairs and services;  administration of zoning laws and land-use and building regulations;
+06.2,Community development,Community,Razvoj zajednice,,
+06.2.0,Community development  (CS),,Razvoj zajednice,,"- Administration of community development affairs and services;  administration of zoning laws and land-use and building regulations;
 - planning of new communities or of rehabilitated communities;  planning the improvement and development of facilities such as housing, industry, public utilities, health, education, culture, recreation, etc. for communities;  preparation of schemes for financing planned developments;
 - production and dissemination of general information, technical documentation and statistics on community development affairs and services.
 Excludes:  plan implementation, that is, the actual construction of housing, industrial buildings, streets, public utilities, cultural facilities, etc. (classified according to function);  agrarian reform and land resettlement (04.2.1);  administration of construction standards (04.4.3) and housing standards (06.1.0)."
@@ -395,8 +395,8 @@ Excludes:  cultural events intended for presentation beyond national boundaries 
 - operation or support of broadcasting and publishing services;
 - grants, loans or subsidies to support:  the construction or acquisition of facilities for television or radio broadcasting;  the construction or acquisition of plant, equipment or materials for newspaper, magazine or book publishing;  the production of material for, and its presentation by, broadcasting;  the gathering of news or other information;  the distribution of published works.
 Excludes:  government printing offices and plants (01.3.3);  provision of education by radio or television broadcasting (09)."
-08.4,Religious and other community services,Religion,,,
-08.4.0,Religious and other community services  (CS),,,,"- Administration of religious and other community affairs;
+08.4,Religious and other community services,Religion,Religija,,
+08.4.0,Religious and other community services  (CS),,Religija,,"- Administration of religious and other community affairs;
 - provision of facilities for religious and other community services, including support for their operation, maintenance and repair;
 - payment of clergy or other officers of religious institutions;  support for the holding of religious services;  grants, loans or subsidies to support fraternal, civic, youth and social organizations or labour unions and political parties."
 08.5,"R&D Recreation, culture and religion",Culture Research,,,"Definitions of basic research, applied research and experimental development are given under (01.4) and (01.5)."
@@ -410,46 +410,46 @@ Includes:  affairs and services relating to recreation, culture and religion tha
 Collective educational services are concerned with matters such as formulation and administration of government policy;  setting and enforcement of standards;  regulation, licensing and supervision of educational establishments;  and applied research and experimental development into education affairs and services.  However, overhead expenses connected with administration or functioning of a group of schools, colleges, etc. are considered to be individual expenditures and are classified to groups (09.1) through (09.6) as appropriate.
 The breakdown of education is based upon the level categories of the 1997 International Standard Classification of Education (ISCED-97) of the United Nations Educational, Scientific and Cultural Organization (UNESCO).
 This division includes military schools and colleges where curricula resemble those of civilian institutions, police colleges offering general education in addition to police training and the provision of education by radio or television broadcasting.  Expenditures so incurred are classified to groups (09.1) to (09.5) as appropriate."
-09.1,Pre-primary and primary education,Pre-school & Primary,,,
-09.1.1,Pre-primary education  (IS),,,,"- Provision of pre-primary education at ISCED-97 level 0;
+09.1,Pre-primary and primary education,Pre-school & Primary,Osnovno obrazovanje,,
+09.1.1,Pre-primary education  (IS),,Predškolsko obrazovanje,,"- Provision of pre-primary education at ISCED-97 level 0;
 - administration, inspection, operation or support of schools and other institutions providing pre-primary education at ISCED-97 level 0.
 Excludes:  subsidiary services to education (09.6.0)."
-09.1.2,Primary education  (IS),,,,"- Provision of primary education at ISCED-97 level 1;
+09.1.2,Primary education  (IS),,Osnovne škole,,"- Provision of primary education at ISCED-97 level 1;
 - administration, inspection, operation or support of schools and other institutions providing primary education at ISCED-97 level 1.
 Includes:  literacy programmes for students too old for primary school.
 Excludes:  subsidiary services to education (09.6.0)."
-09.2,Secondary education,Secondary & Further,,,
+09.2,Secondary education,Secondary & Further,Srednje škole,,
 09.2.1,Lower-secondary education  (IS),,,,"- Provision of lower-secondary education at ISCED-97 level 2;
 - administration, inspection, operation or support of schools and other institutions providing lower-secondary education at ISCED-97 level 2;
 - scholarships, grants, loans and allowances to support pupils pursuing lower-secondary education at ISCED-97 level 2.
 Includes:  out-of-school lower-secondary education for adults and young people.
 Excludes:  subsidiary services to education (09.6.0)."
-09.2.2,Upper-secondary education  (IS),,,,"- Provision of upper-secondary education at ISCED-97 level 3;
+09.2.2,Upper-secondary education  (IS),,Srednje škole,,"- Provision of upper-secondary education at ISCED-97 level 3;
 - administration, inspection, operation or support of schools and other institutions providing upper-secondary education at ISCED-97 level 3;
 - scholarships, grants, loans and allowances to support pupils pursuing upper-secondary education at ISCED-97 level  3.
 Includes:  out-of-school upper-secondary education for adults and young people.
 Excludes:  subsidiary services to education (09.6.0)."
-09.3,Post-secondary non-tertiary education,Post-Secondary,,,
-09.3.0,Post-secondary non-tertiary education  (IS),,,,"- Provision of post-secondary non-tertiary education at ISCED-97 level 4;
+09.3,Post-secondary non-tertiary education,Post-Secondary,Specijalno i umjetničko obrazovanje,,
+09.3.0,Post-secondary non-tertiary education  (IS),,Specijalno i umjetničko obrazovanje,,"- Provision of post-secondary non-tertiary education at ISCED-97 level 4;
 - administration, inspection, operation or support of institutions providing post-secondary non-tertiary education at ISCED-97 level 4;
 - scholarships, grants, loans and allowances to support students pursuing post-secondary non-tertiary education at ISCED-97 level 4.
 Includes:  out-of-school post-secondary non-tertiary education for adults and young people.
 Excludes:  subsidiary services to education (09.6.0)."
-09.4,Tertiary education,University,,,
+09.4,Tertiary education,University,Univerziteti,,
 09.4.1,First stage of tertiary education  (IS),,,,"- Provision of tertiary education at ISCED-97 level 5;
 - administration, inspection, operation or support of universities and other institutions providing tertiary education at ISCED-97 level 5;
 - scholarships, grants, loans and allowances to support students pursuing tertiary education at ISCED-97 level 5.
 Excludes:  subsidiary services to education (09.6.0)."
-09.4.2,Second stage of tertiary education  (IS),,,,"- Provision of tertiary education at ISCED-97 level 6;
+09.4.2,Second stage of tertiary education  (IS),,Univerziteti,,"- Provision of tertiary education at ISCED-97 level 6;
 - administration, inspection, operation or support of universities and other institutions providing tertiary education at ISCED-97 level 6;
 - scholarships, grants, loans and allowances to support students pursuing tertiary education at ISCED-97 level 6.
 Excludes:  subsidiary services to education (09.6.0)."
-09.5,Education not definable by level,Misc Education,,,
-09.5.0,Education not definable by level  (IS),,,,"- Provision of education not definable by level (that is, educational programmes, generally for adults, which do not require any special prior instruction, in particular vocational training and cultural development);
+09.5,Education not definable by level,Misc Education,Ostalo obrazovanje,,
+09.5.0,Education not definable by level  (IS),,Ostalo obrazovanje,,"- Provision of education not definable by level (that is, educational programmes, generally for adults, which do not require any special prior instruction, in particular vocational training and cultural development);
 - administration, inspection, operation or support of institutions providing education not definable by level;
 - scholarships, grants, loans and allowances to support students pursuing education programmes not definable by level."
-09.6,Subsidiary services to education,Extra education services,,,
-09.6.0,Subsidiary services to education  (IS),,,,"- Provision of subsidiary services to education;
+09.6,Subsidiary services to education,Extra education services,Studentski standard,,
+09.6.0,Subsidiary services to education  (IS),,Studentski standard,,"- Provision of subsidiary services to education;
 - administration, inspection, operation or support of transportation, food, lodging, medical and dental care and related subsidiary services chiefly for students regardless of level.
 Excludes:  school health monitoring and prevention services (07.4.0);  scholarships, grants, loans and allowances in cash to defray the costs of subsidiary services (09.1), (09.2), (09.3), (09.4) or (09.5)."
 09.7,R&D Education,Education Research,,,"Definitions of basic research, applied research and experimental development are given under (01.4) and (01.5)."
