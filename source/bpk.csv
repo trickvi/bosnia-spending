@@ -1,4 +1,4 @@
-Cofog1,Cofog2,Cofog3,Title,Amount,Time
+Cofog1,Cofog2,Cofog3,title,amount,time
 1,1,1,Ministarstvo finansija,4897740,2012
 1,1,1,Skupština ,1236100,2012
 1,1,1,Inspektorat,569811,2012
@@ -15,7 +15,8 @@ Cofog1,Cofog2,Cofog3,Title,Amount,Time
 3,3,0,Zavod za bespl. pravnu pomoć,29903,2012
 9,1,2,Osnovno obrazovanje,6051534,2012
 9,2,2,Srednje obrazovanje,3350548,2012
-1,1,1,"Min. za obrazovanje, kulturu i sport",2928347,2012
+9,4,2,Visoko obrazovanje,700000,2012
+1,1,1,"Min. za obrazovanje, kulturu i sport",2228347,2012
 10,9,0,Centar za socijalni rad,5060848,2012
 1,1,1,"Min. za soc. politiku, zdrav., ras. lica i izbj.",2185407,2012
 1,1,1,Min. za boračk. pitanja,1612249,2012

@@ -1,0 +1,19 @@
+# Bosnian spending
+
+Source and data files for spending dataset of Bosnia and Herzegovina. The files in the source/ folder are the files that come from [CPI](http://cpi.ba/) and the files in data/ are transformed files that can be used to create the dataset in [OpenSpending](http://openspending.org/).
+
+# Conversion
+
+To transform the source file into the OpenSpending format you can use ``transform.py`` which you can find in the tools folder.
+
+For example to run it for the ks.csv source file (for Kanton Sarajevo) you would write in commandline:
+
+    > python transform.py -i ../source/ks.csv -o ../data/ks-outputfile.csv -m bosnian-cofog.csv -l "Kanton Sarajevo"
+
+* The -i argument is the input file
+* The -o argument is the output file
+* The -m argument is the mapping file that puts in the dejargonised bosnian cofog names
+* The -l argument is the name of the level (Kanton Sarajevo, Federation BiH, etc.)
+
+
+

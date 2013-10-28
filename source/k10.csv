@@ -1,4 +1,4 @@
-Cofog1,Cofog2,Cofog3,Title,Amount,Time
+Cofog1,Cofog2,Cofog3,title,amount,time
 1,1,1,Min. finasija,9434916,2012
 1,1,1,Skupština,1843363,2012
 1,1,1,Vlada,1581025,2012
@@ -16,6 +16,7 @@ Cofog1,Cofog2,Cofog3,Title,Amount,Time
 10,9,0,Uprava za pitanje branitelja,1700342,2012
 9,1,2,Osnovno obrazovanje,15067153,2012
 9,2,2,Srednje obrazovanje ,8220551,2012
-1,1,1,"Min. znanosti,prosvj., kult. i športa",2244156,2012
+9,4,2,Visoko obrazovanje,720000,2012
+1,1,1,"Min. znanosti,prosvj., kult. i športa",1524156,2012
 1,1,1,Min. graditeljstva,609745,2012
 6,1,0,Uprava za geo. imo.-pravne poslove,140382,2012
