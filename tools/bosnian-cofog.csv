@@ -1,15 +1,15 @@
 Code,Description,Dejargonized Description,Bosnian,Color,ExplanatoryNote
 01,General public services,Running Government,Rad Vlade,#9900cc,
 01.1,"Executive and legislative organs, financial and fiscal affairs, external affairs",Top-level government,Organi Vlasti,,
-01.1.1,Executive and legislative organs  (CS),,Izvršna i zakonodavna organi ,,"- Administration, operation or support of executive and legislative organs.
+01.1.1,Executive and legislative organs  (CS),,Izvršna i zakonodavna organi,,"- Administration, operation or support of executive and legislative organs.
 Includes:  office of the chief executive at all levels of government - office of the monarch, governor-general, president, prime minister, governor, mayor, etc.;  legislative bodies at all levels of government - parliaments, chambers of deputies, senates, assemblies, town councils, etc.;  advisory, administrative and political staffs attached to chief executive offices and legislatures;  libraries and other reference services serving mainly executive and legislative organs;  physical amenities provided to the chief executive, the legislature and their aides;  permanent or ad hoc commissions and committees created by or acting on behalf of the chief executive or legislature.
 Excludes:  ministerial offices, offices of heads of departments of local governments, interdepartmental committees, etc. concerned with a specific function (classified according to function)."
-01.1.2,Financial and fiscal affairs  (CS),,Fiskalne aktivnosti ,,"- Administration of financial and fiscal affairs and services;  management of public funds and public debt;  operation of taxation schemes;
+01.1.2,Financial and fiscal affairs  (CS),,Fiskalne aktivnosti,,"- Administration of financial and fiscal affairs and services;  management of public funds and public debt;  operation of taxation schemes;
 - operation of the treasury or ministry of finance, the budget office, the inland revenue agency, the customs authorities, the accounting and auditing services;
 - production and dissemination of general information, technical documentation and statistics on financial and fiscal affairs and services.
 Includes:  financial and fiscal affairs and services at all levels of government.
 Excludes:  underwriting or flotation charges and interest payments on government loans (01.7.0);  supervision of the banking industry (04.1.1)."
-01.1.3,External affairs  (CS),,Vanjski poslovi ,,"- Administration of external affairs and services;
+01.1.3,External affairs  (CS),,Vanjski poslovi,,"- Administration of external affairs and services;
 - operation of the ministry of external affairs and diplomatic and consular missions stationed abroad or at offices of international organizations;  operation or support of information and cultural services for distribution beyond national boundaries;  operation or support of libraries, reading rooms and reference services located abroad;
 - regular subscriptions and special contributions to meet general operating expenses of international organizations.
 Excludes:  economic aid to developing countries and countries in transition (01.2.1);  economic aid missions accredited to foreign governments (01.2.1);  contributions to aid programmes administered by international or regional organizations (01.2.2);  military units stationed abroad (02.1.0);  military aid to foreign countries (02.3.0);  general foreign economic and commercial affairs (04.1.1);  tourism affairs and services (04.7.3)."
@@ -105,7 +105,7 @@ Excludes:  economic and commercial affairs of a particular industry (classified 
 - production and dissemination of general information, technical documentation and statistics on general labour affairs and services;
 - grants, loans or subsidies to promote general labour policies and programmes.
 - Excludes:  labour affairs of a particular industry (classified to (04.2) through (04.7) as appropriate);  provision of social protection in the form of cash benefits and benefits in kind to persons who are unemployed (10.5.0)."
-04.2,"Agriculture, forestry, fishing and hunting","Farms, Forests & Fish",Poljoprivreda i šumarstvo ,,
+04.2,"Agriculture, forestry, fishing and hunting","Farms, Forests & Fish",Poljoprivreda i šumarstvo,,
 04.2.1,Agriculture  (CS),Farming,Agrokultura,,"- Administration of agricultural affairs and services;  conservation, reclamation or expansion of arable land;  agrarian reform and land settlement;  supervision and regulation of the agricultural industry;
 - construction or operation of flood control, irrigation and drainage systems, including grants, loans or subsidies for such works;
 - operation or support of programmes or schemes to stabilize or improve farm prices and farm incomes;  operation or support of extension services or veterinary services to farmers, pest control services, crop inspection services and crop grading services;
@@ -368,8 +368,8 @@ Includes:  institutions serving old people in which medical monitoring is an ess
 - preparation and dissemination of information on public health matters.
 Includes:  public health services delivered by special teams to groups of clients, most of whom are in good health, at workplaces, schools or other non-medical settings;  public health services not connected with a hospital, clinic or practitioner;  public health services not delivered by medically qualified doctors;  public health service laboratories.
 Excludes:  medical analysis laboratories (07.2.4);  laboratories engaged in determining the causes of disease (07.5.0)."
-07.5,R&D Health,Health Research,Istraživanja u zdravstvu ,,"Definitions of basic research, applied research and experimental development are given under (01.4) and (01.5)."
-07.5.0,R&D Health  (CS),,Istraživanja u zdravstvu ,,"- Administration and operation of government agencies engaged in applied research and experimental development related to health;
+07.5,R&D Health,Health Research,Istraživanja u zdravstvu,,"Definitions of basic research, applied research and experimental development are given under (01.4) and (01.5)."
+07.5.0,R&D Health  (CS),,Istraživanja u zdravstvu,,"- Administration and operation of government agencies engaged in applied research and experimental development related to health;
 - grants, loans and subsidies to support applied research and experimental development related to health undertaken by non-government bodies such as research institutes and universities.
 Includes:  laboratories engaged in determining the causes of disease.
 Excludes:  basic research (01.4.0)."
@@ -459,7 +459,7 @@ Excludes:  basic research (01.4.0)."
 09.8,Education n.e.c.,Education Admin,Administracija obrazovanja,,
 09.8.0,Education n.e.c.  (CS),,Administracija obrazovanja,,"- Administration, operation or support of activities such as formulation, administration, coordination and monitoring of overall educational policies, plans, programmes and budgets;  preparation and enforcement of legislation and standards for the provision of education, including licensing of educational establishments;  production and dissemination of general information, technical documentation and statistics on education.
 Includes:  education affairs and services that cannot be assigned to (09.1), (09.2), (09.3), (09.4), (09.5), (09.6) or (09.7)."
-10,Social protection,Helping Others,Socijalna zaštita,#ff3300,"Government outlays on social protection include expenditures on services and transfers provided to individual persons and households and expenditures on services provided on a collective basis.  Expenditures on individual services and transfers are allocated to groups (10.1) through (10.7);  expenditures on collective services are assigned to groups (10.8) and (10.9).
+10,Social protection,Helping Others,Penzije i socijalno,#ff3300,"Government outlays on social protection include expenditures on services and transfers provided to individual persons and households and expenditures on services provided on a collective basis.  Expenditures on individual services and transfers are allocated to groups (10.1) through (10.7);  expenditures on collective services are assigned to groups (10.8) and (10.9).
 Collective social protection services are concerned with matters such as formulation and administration of government policy;  formulation and enforcement of legislation and standards for providing social protection;  and applied research and experimental development into social protection affairs and services.
 The social protection functions and their definitions are based on the 1996 European System of integrated Social Protection Statistics (ESSPROS) of the Statistical Office of the European Communities (Eurostat).
 In ESSPROS, social protection includes health care, but this division does not include health care.  Health care is covered by Division 07.  Hence, medical goods and services provided to persons who receive the cash benefits and benefits in kind specified in groups (10.1) through (10.7) are classified under (07.1), (07.2) or (07.3) as appropriate."

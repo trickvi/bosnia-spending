@@ -27,13 +27,13 @@ def transform_data(filename, mapping, level):
             cofog2 = '.'.join([cofog1, str(row['Cofog2'])])
             cofog3 = '.'.join([cofog2, str(row['Cofog3'])])
                 
-            output_row = [row.get('Title', row['title']),
-                          row.get('Amount', row['amount']),
-                          row.get('Time', row['time']),
-                          cofog1, mapping[cofog1],
-                          cofog2, mapping[cofog2],
-                          cofog3, mapping[cofog3],
-                          level]
+            output_row = [row.get('Title', row.get('title', '')).strip(),
+                          row.get('Amount', row.get('amount', '')).strip(),
+                          row.get('Time', row.get('time', '')).strip(),
+                          cofog1.strip(), mapping[cofog1].strip(),
+                          cofog2.strip(), mapping[cofog2].strip(),
+                          cofog3.strip(), mapping[cofog3].strip(),
+                          level.strip()]
             output.append(output_row)
 
     return output
