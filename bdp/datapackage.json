@@ -1,0 +1,54 @@
+{
+	"name": "bosnia-herzegovina-2012",
+	"title": "Bosnia and Herzegovina spending in 2012",
+    "description": "This is a compiled dataset of the Bosnia and Herzegovina spending for the year 2012, as compiled by CPI, a civil society organisation in Bosnia and Herzegovina",
+	"version": "0.0.1",
+	"datapackage_version": "1.0.7",
+	"sources": [
+		{
+                        "name": "Fondacija CPI",
+			"web": "http://cpi.ba/",
+			"email": "info@cpi.ba"
+		}
+	],
+	"resources": [
+		{
+			"path": "bosnia-herzegovina.csv",
+			"name": "bosnia-herzegovina",
+                        "location": "BA",
+			"currency": "BAM",
+			"dateLastUpdated": "2013-10-29",
+			"datePublished": "2013-10-29",
+			"fiscalYear": "2012",
+			"granularity": "aggregated",
+			"standard": "0.0.1",
+			"status": "executed",
+			"type": "expenditure",
+			"schema": {
+				"primaryKey": "id",
+				"fields": [
+					{
+						"name": "id",
+						"type": "string"
+					},
+					{
+						"name": "amount",
+						"type": "number"
+					},
+					{
+						"name": "admin",
+						"type": "string"
+					},
+					{
+						"name": "cofog",
+						"type": "string"
+					},
+					{
+						"name": "geocode",
+						"type": "string"
+					}
+				]
+			}
+		}
+	]
+}

@@ -1,0 +1,552 @@
+id,amount,admin,cofog,geocode
+ceab8f4f5d8b41c2aad230a9bb9daf96,99205000,Uprava za indirektno oporezivanje Bosne i Hercegovine,01.1.2,Bosna i Hercegovina
+62046da69ecb4ddb94df2f007fcb6ba8,54317000,Ministarstvo vanjskih poslova Bosne i Hercegovine,01.1.3,Bosna i Hercegovina
+7a1e2516426145b7897bec15f1fa5cc8,20253000,"Agencija za identifikacione dokumente, evidenciju i razmjenu podataka BiH",01.6.0,Bosna i Hercegovina
+93ac4b10fdec43dea5e24228e800a993,15635000,Parlamentarna skupština Bosne i Hercegovine,01.1.1,Bosna i Hercegovina
+e1caa464b0b3420e89bfdcc0e2318639,14607000,Ministarstvo civilnih poslova,01.1.1,Bosna i Hercegovina
+7b65f4d1b48d4d9692022c268c3ff475,12865000,Služba za zajedničke poslove institucija Bosne i Hercegovine,01.3.3,Bosna i Hercegovina
+a4bcc270281d4d49a546e312467445c3,10098000,Ministarstvo finansija i trezora BiH,01.1.1,Bosna i Hercegovina
+c5c4c41760054917bbd6bf69562c460f,8759000,Centralna izborna komisija BiH,01.6.0,Bosna i Hercegovina
+de5084f36d444b69be80d80806400f19,8068000,Predsjedništvo BiH,01.1.1,Bosna i Hercegovina
+388185e4609e4e3b9f57fcb2a3bd76ea,7803000,Regulatorna agencija za komunikacije,04.6.0,Bosna i Hercegovina
+4d84dff32c2a4cf189920dfd863863f5,7639000,Agencija za statistiku BiH,01.3.2,Bosna i Hercegovina
+76b095f3d7094cbca19ddeaab2c19f50,5481000,Ured koordinatora za reformu javen uprave,01.1.1,Bosna i Hercegovina
+4a5420a419a14f94bc865b4190b8cb5c,4179000,Direkcija za europske integracije,01.1.3,Bosna i Hercegovina
+9ebec7dabb8f4b728aac2c9f66a21985,3844000,Generalni sekretarijat Vijeća ministara Bosne i Hercegovine,01.1.1,Bosna i Hercegovina
+694ac18c3ce549cdbad4d9daa5910e6e,3545000,Ured za reviziju institucija BiH,01.1.2,Bosna i Hercegovina
+b8ed2f1824594e678ceb7ab0b384daa2,3066000,Institut za nestala lica BiH,01.4.0,Bosna i Hercegovina
+c4c841a4eccd47bba5eef59d03f56cf7,2410000,Institut za mjeriteljstvo BiH,04.1.1,Bosna i Hercegovina
+7cc90ae6efb94c239191268f4faedf98,1735000,Institut za intelektualno vlasništvo BiH,04.1.1,Bosna i Hercegovina
+ae0e36e6373c403ab35a04850c1ae0ef,1348000,Institut za standardizaciju BiH,04.1.1,Bosna i Hercegovina
+a46acb45a068469aa6f9af567def372d,1114000,Agencija za državnu službu BiH,01.3.1,Bosna i Hercegovina
+c18e429306784ec7971f74b2c8a0d16b,1110000,Agencija za rad i zapošljavanje BiH,04.1.2,Bosna i Hercegovina
+415c7b0540ef42dbb8e140c64c8a0770,1039000,Instut za akreditiranje BiH,01.6.0,Bosna i Hercegovina
+e9a97627812c4571a7c23baab51185ea,652000,Arhiv BiH,01.3.3,Bosna i Hercegovina
+ab2483f95269475e9066d36e47d27a94,620000,Ured za zakonodavstvo,01.1.1,Bosna i Hercegovina
+391b8c62f2b54ee0a4e0631b30849002,450000,Centralna harmonizacijska jedinica,01.1.2,Bosna i Hercegovina
+2fcf762ca2e54e0c8d7a1f537632dee2,399000,Odbor državne službe za žalbe,01.3.1,Bosna i Hercegovina
+5f678f0bd95049c5a25300c49d3d0511,305847000,Ministarstvo odbrane BiH,02.1.0,Bosna i Hercegovina
+ce648c47497f4f979b5005999b76b4cc,33121000,Obavještajno sigurnosna agencija Bosne i Hercegovine,03.1.0,Bosna i Hercegovina
+cabecdbe67c44ce9963edc6d2d3930f2,29231000,Državna agencija za istrage i zaštitu,03.5.0,Bosna i Hercegovina
+e90e2d36980c4dd1a646d826f01171b4,27537000,Direkcija za koordinaciju policijskih tijela,03.1.0,Bosna i Hercegovina
+ca4741794c09424fa714da4ea8a20094,14442000,Ministarstvo pravde BiH,01.1.1,Bosna i Hercegovina
+dc41311fafb14fe992d64699d1537875,14091000,Sud Bosne i Hercegovine,03.3.0,Bosna i Hercegovina
+f82a74bc84e742da9dbb78696f45c2d4,8959000,Tužilaštvo Bosne i Hercegovine,03.3.0,Bosna i Hercegovina
+418425ed01a9445282818e2e92aac7c4,8949000,Služba za poslove sa strancima Bosne i Hercegovine,03.1.0,Bosna i Hercegovina
+30dca741871a4181ac4c567749e0da99,8356000,Visoko sudsko i tužilačko vijeće Bosne i Hercegovine,03.3.0,Bosna i Hercegovina
+3f77fce26909480b8634e95ec4e2be13,8260000,Ministarstvo sigurnosti Bosne i Hercegovine,01.1.1,Bosna i Hercegovina
+b36b111753b34e8eba5406b581a4211b,6029000,Centar za uklanjanje mina u Bosni i Hercegovini BHMAC,03.6.0,Bosna i Hercegovina
+faa0ef4d60014248bc0ac6f24e85cd8c,5188000,Ustavni sud Bosne i Hercegovine,03.3.0,Bosna i Hercegovina
+f6ddcc24c06649268a41ac788c4f5d61,4443000,Agencija za školovanje i stručno osposobljavanje kadrova,03.1.0,Bosna i Hercegovina
+54f9425490e04622b8c411f4fa38975e,2878000,"Jedinica za implementaciju projekta izgradnje zavoda za izvršenje kaznenih sankcija, pritvora i drugih mjera BiH",03.4.0,Bosna i Hercegovina
+b14e03d5ec9244dab110f8f2dbaad10e,2388000,Institucija ombdusmana za ljudska prava BiH,03.3.0,Bosna i Hercegovina
+a880fc8cc6e64ea184144f7981be53e5,1605000,Agencija za policijsku podršku,03.1.0,Bosna i Hercegovina
+e865d1754ff6468baa0b2575a33ffa97,1068000,Agencija za zaštitu ličnih podataka u BiH,03.6.0,Bosna i Hercegovina
+8aecb9d05fde4d5a8da90a3319f31052,1002000,Pravobranilaštvo Bosne i Hercegovine,03.3.0,Bosna i Hercegovina
+0832065888084607b40bd6c4bf639ca5,981000,Državna regulatorna agencija za radijacijsku i nuklearnu bezbjednost u BiH,03.6.0,Bosna i Hercegovina
+72bbf37ec08a4e52afb05c6e626e8f83,885000,Agencija za prevenciju korupcije i koordinaciju borbe protiv korupcije,03.6.0,Bosna i Hercegovina
+61009b8d7c9e417ab1491a708519709a,369000,Institucija ombdusmana za zaštitu potrošaća u BiH,03.3.0,Bosna i Hercegovina
+8f1f56549e464edeb368dbc0d22beaaf,13488000,Ministarstvo komunikacija i prometa Bosne i Hercegovine,01.1.1,Bosna i Hercegovina
+664c325ec2fe4d588f633ef446057105,6625000,Ministarstvo vanjske trgovine i ekonomskih odnosa Bosne i Hercegovine,01.1.1,Bosna i Hercegovina
+1bf23ca77d8540dba3b18a3a5974a93f,6037000,Direkcija za civilno vazduhoplovstvo BiH,04.5.4,Bosna i Hercegovina
+8446195244a04e16ae48bc4ad078807a,1525000,Agencija za promociju stranih investicija u BiH,04.1.1,Bosna i Hercegovina
+e88293e27a3a4280be2d01bf7c6d9431,1475000,Konkurencijsko vijeće Bosne i Hercegovine,04.1.1,Bosna i Hercegovina
+8a086327d46f4cc09999a3d28d10de30,1285000,Direkcija za ekonomsko planiranje,04.1.1,Bosna i Hercegovina
+21673d2be4634239bf0c44bfc7d2ab7a,1076000,Komisija za koncesije BiH,04.1.1,Bosna i Hercegovina
+8dbe1912aec845a686d1f9caa23baff7,1070000,Ured za razmatranje žalbi po javnim nabavkama,01.1.2,Bosna i Hercegovina
+7c1026603b8e448f81052a1754dc8045,915000,Agencija za javne nabavke BiH,01.1.2,Bosna i Hercegovina
+ac5ee7391a8f4f2ab446b996c1807412,882000,Agencija za poštanski promet BiH,04.6.0,Bosna i Hercegovina
+ce2011f3b7024fffb96470539cef6422,728000,Agencija za nadzor nad tržištem BiH,04.1.1,Bosna i Hercegovina
+7c2f3bda41cb4498a0c26b7823ec044c,536000,Agencija za osiguranje u BiH,04.9.0,Bosna i Hercegovina
+8735ca0e7e9b437ba9593ee1695a6bbb,529000,Ured za harmonizaciju i koordinaciju sistema plačanja u poljoprivredi i ruralnom razvoju,04.2.1,Bosna i Hercegovina
+eb49210baf014949b65e03a1c25cd945,1267000,"Agencija za predškolsko, osnovno i srednje obrazovanje BiH",09.8.0,Bosna i Hercegovina
+ad0d8c5ec0e140a78f5dddc3d62ac492,1152000,Agencija za razvoj visokog obrazovanja i osiguranje kvaliteta,09.8.0,Bosna i Hercegovina
+3ee402571a814229821ee90740c136ac,751000,Centar za informisanje i priznavanje dokumenata iz oblasti visokog obrazovanja,09.8.0,Bosna i Hercegovina
+3d2faf652b7440a8838382d5ac07c794,7813000,Ured za veterinarstvo BiH,07.6.0,Bosna i Hercegovina
+f4b5cd07ca2244aca09e072b8d4496e7,5069000,Agencija za lijekove i medicinska sredstva Bosne i Hercegovine,07.6.0,Bosna i Hercegovina
+31398e15698c4a5282babd62d40085f4,1707000,Agencija za sigurnost hrane BiH,07.5.0,Bosna i Hercegovina
+1d36b9ad624140869cd773a17a9e579b,1063000,Agencija za forenzička ispitivanja i vještačenja,07.5.0,Bosna i Hercegovina
+e8f69356718d4186a470357f471666d5,597000,Agencija za antidoping kontrolu,08.1.0,Bosna i Hercegovina
+9e378f292eb54b41a38b6993c934123c,10965000,Minstarstvo za ljudska prava i izbjeglice BiH,01.1.1,Bosna i Hercegovina
+7603dd9d85994a11acc444f0a28572bb,439000,Fond za povratak BiH,10.7.0,Bosna i Hercegovina
+e94272512830465b8abb3deb283ba655,1309000,Komisija za očuvanje nacionalnih spomenika,08.2.0,Bosna i Hercegovina
+34a3559a88594bb98c67594fff9a2e78,734000,Memorijalni centar Srebrenica-Potočari,08.2.0,Bosna i Hercegovina
+0b31855cde914164a301ad43d77262cf,985000,Uprava BiH za zaštitu zdravlja bilja,05.4.0,Bosna i Hercegovina
+2a8878ed275d497ca821917319bef3c5,28594000,Direktni transferi sa JRT,01.8.0,Bosna i Hercegovina
+d213ac82e794438e97cf5ca2076e8a29,3465000,Rezervisanja,01.1.2,Bosna i Hercegovina
+2245784b63e2460c925d3e640b35d328,444928000,Servisiranje spoljnog duga,01.7.0,Bosna i Hercegovina
+31c934b1703f4927bd1200780cdd6ea1,586486291,Izdaci za otplate dugova i kamata,01.7.0,Federacija Bosne i Hercegovine
+b9de11725824438cb3fa08d01290edb4,29981510,Vlada FBiH,01.1.1,Federacija Bosne i Hercegovine
+966ae1329d9f45c48522c22883445ddd,41678545,Porezna uprava,01.1.2,Federacija Bosne i Hercegovine
+a2b5fbd978e84220992bf2b00330bc3e,33611000,Kapitalni i tekući transferi,01.8.0,Federacija Bosne i Hercegovine
+e89dcfe26f1a44bca9d4b6a24346159b,20151127,FMF - Organi uprave,01.1.1,Federacija Bosne i Hercegovine
+f8f8f5b14fd14954b97ff9da72aef949,14875997,Parlament FBiH,01.1.1,Federacija Bosne i Hercegovine
+ecd393e6a2774126af8a398f24191024,8160786,Fed. uprava za inspekcijske poslove,01.1.3,Federacija Bosne i Hercegovine
+d6a0c054a1614e83a9eea31dbbf7c1f9,7932972,Fed. zavod za statistiku,01.1.3,Federacija Bosne i Hercegovine
+8bb6975f0a7d44c5a9d1a5c5fe22fdb3,3667558,Ured Predsjednika i Podpredsjednika FBiH,01.1.1,Federacija Bosne i Hercegovine
+6e252319b76b4aea939868cf6b517593,3386524,Ured za reviziju institucija u FBiH,01.1.2,Federacija Bosne i Hercegovine
+257496f689df4179a21c6ed3252d73f6,2269489,Agencija za državnu službu FBiH,01.3.1,Federacija Bosne i Hercegovine
+315f1b58dc6443c2bc249bacdd997f04,1801649,Finansijska policija,01.1.3,Federacija Bosne i Hercegovine
+e52a531b4aec4bf4b4fa135c921a32bd,582072,Arhiv FBiH,01.3.3,Federacija Bosne i Hercegovine
+94bd4d2a1d59445cb3cb34ff823a5942,46900460,Fed. min. pravde,01.1.1,Federacija Bosne i Hercegovine
+6a75b8ad370443d5aba53fe49074cf3e,41900503,MUP FBiH,03.1.0,Federacija Bosne i Hercegovine
+e19ae5921e6f401cbb9d27af8e6601df,23082137,Vrhovni sud FBiH,03.3.0,Federacija Bosne i Hercegovine
+df0bda8d63514f4dba6f4c5fac93c373,8231895,Fed. uprava za CZ,03.1.0,Federacija Bosne i Hercegovine
+5932815b7cf5488dad9c6bbb6be3bf94,1487031,Fed. tužilaštvo FBiH,03.3.0,Federacija Bosne i Hercegovine
+223ff74ee2f54af581207a18cedd221d,1434594,Ustavni sud FBiH,03.3.0,Federacija Bosne i Hercegovine
+90b2effdc5854e30bd5ca73c27a3c24a,1270010,Fed. pravobranilaštvo,03.3.0,Federacija Bosne i Hercegovine
+86d6856ca586489f9d763f4fb9ea12f3,778118,JU centar za edukaciju sudija i tužilaca,03.3.0,Federacija Bosne i Hercegovine
+a241a9ea3920450682e9536d8f1de9ca,477402,Gender centar FBiH,03.6.0,Federacija Bosne i Hercegovine
+ef5bff9aa0984099a3754bf35ca166d5,85234119,"Fed. min. poljoprivr., vodoprivr i šumarstva",01.1.1,Federacija Bosne i Hercegovine
+f62ecd9525cd495685945260b1d7c093,55871020,Fed. min. prometa i komun.,01.1.1,Federacija Bosne i Hercegovine
+2276401c2c5544dc8bf188b7efc12371,40150173,"Fed. min. energije, rudarstva i industr.",01.1.1,Federacija Bosne i Hercegovine
+ea9ebbff05454781a4a43b02705663d5,10373371,"Fed. min. razvoja, poduz. i obrta",01.1.1,Federacija Bosne i Hercegovine
+b9022a0c7b5a4807a4e1adc985824e61,5533966,Fed. direkcija robnih rezervi,01.1.1,Federacija Bosne i Hercegovine
+35f4efad8aae4567ab0eccfae6009802,2686950,Fed. hitro - metero. zavod,04.9.0,Federacija Bosne i Hercegovine
+b90b1a816a494fbcb73f942859170a0e,2382255,Fed. zavod za poljoprivredu Sarajevo,04.2.1,Federacija Bosne i Hercegovine
+a3b55a2b4faa4e8f8c6640bb53e7e2b7,2078705,Fed. min. trgovine,01.1.1,Federacija Bosne i Hercegovine
+a8f0cc093d8d4bc18e0a38bd81d8ff46,2048687,Fed. agro-mediteranski zavod Mostar,04.2.1,Federacija Bosne i Hercegovine
+c40fad2b43154f5f8726ebe929f85b32,1290809,Fed. zavod za agropedologiju,04.2.1,Federacija Bosne i Hercegovine
+979a89b10d82412691d66205fa1ab6c9,1236188,Fed. zavod za geologiju,04.9.0,Federacija Bosne i Hercegovine
+390cd3edd18c400f941430526274fa86,720645,Fed. zavod za program. razvoja,04.9.0,Federacija Bosne i Hercegovine
+db151256f7cd4c1490c56be0e5e2453e,40869713,Fed. min. zdravstva,07.6.0,Federacija Bosne i Hercegovine
+1373c093383f49768603b46253cd6456,367705739,Fed. min. rada i soc. politike,10.9.0,Federacija Bosne i Hercegovine
+3be32255962247679a1f27ea80b6d2bc,353704673,Fed. min. za pitanje boraca i inv. odbr. - oslobod. rata,01.1.1,Federacija Bosne i Hercegovine
+c92828b817b248378b1891d1a586b0e3,28708735,Fed. min. raseljenih osoba i izbjeglica,01.1.1,Federacija Bosne i Hercegovine
+c3fcfd39193f455e8c5359405bfdbbe5,11018239,Fed. min. kulture i sporta,01.1.1,Federacija Bosne i Hercegovine
+d2f0deec8aaf4e4eba46b550aacb3c9f,2465972,Fed. novinska agencija,08.3.0,Federacija Bosne i Hercegovine
+a4513af0ce214f97aea6ff18b74febb8,8504825,Fed. min. obrazo. i nauke,09.8.0,Federacija Bosne i Hercegovine
+36214b3658f64c43b37dd158730f6318,10163203,Fed. min. okoliša i turizma,01.1.1,Federacija Bosne i Hercegovine
+8d98bf9f4f554d1584a170e3662cd2c7,8588970,Fed. min. prostornog uređenja,01.1.1,Federacija Bosne i Hercegovine
+fb16500d77704567ba54b0f65ca82544,2259642,Fed. uprava za geo. i imovinsko - pravne poslove,06.1.0,Federacija Bosne i Hercegovine
+9947697d06c245ea884e49559a15c199,24436000,Poreska uprava RS-a,01.1.2,Republika Srpska
+b888a88219bc423e96e12b07aeaa0ee5,10919000,Predsjednik RS-a,01.1.1,Republika Srpska
+30594405589044d098b5d0187561c198,10489000,Narodna skupština RS-a,01.1.1,Republika Srpska
+c5995c3dc96147a198997c66fb22b960,10403000,Repub. uprava za inspekc. poslove,01.1.3,Republika Srpska
+e7fbe464748f44c8854d22d990396bf8,10193000,Vlada RS-a,01.1.1,Republika Srpska
+7598170e980f4c93bef3843d9df89df8,9369000,Min. uprave i lok. samouprave,01.1.1,Republika Srpska
+fcebe6ae077640a89a40c87da336ea2d,7927000,Min. finansija,01.1.1,Republika Srpska
+7c73cf33187d48c1b14b98c3e9182ce2,7415000,"Min. porodice, omladine i sporta",01.1.1,Republika Srpska
+9504ed93f27d44e6a016ad309b765929,5268000,Služba za zajednič. poslove Vlade RS-a,01.3.3,Republika Srpska
+ac23c8620ba9430da379cfd2df1ca4ee,4043000,Repub. zavod za statistiku,01.3.2,Republika Srpska
+8726259208674ae584e5c51158a8ee56,3500000,Glavna služba za reviziju jav. sektora RS-a,01.1.2,Republika Srpska
+7b993838befe44c38b9022fcfc781416,3340000,Vijeće naroda RS-a,01.1.1,Republika Srpska
+3663fbef85884d41955a35081a71fab7,1298000,Repub. hidromet. zavod,04.9.0,Republika Srpska
+0693d9655b45490c860e2d28019faa1a,1048000,Repub. uprava za igre na sreću,01.6.0,Republika Srpska
+8af79d3f997549a083690ba53223348c,997000,Repub. centar za istraž. rat. zločina,01.4.0,Republika Srpska
+856416cef80e4fa7a553dbbd00e82e18,898000,Arhiv RS-a,01.3.3,Republika Srpska
+2ab07055fa984c3dac0813b6be8a19b2,648000,Repub. sekretar. za zakonodav.,01.1.1,Republika Srpska
+5b0a5b8b807e4befa3c2a0c5ecabf3ec,623000,Agencija za državnu upravu,01.1.1,Republika Srpska
+25f7f63c293348de9db00c82106fe0ab,578000,Agencija za upravljanje oduz. imov.,04.9.0,Republika Srpska
+95be9ae6b9f8483eab53739f9a538a55,461000,Repub. devizni inspektorat,01.1.1,Republika Srpska
+5580c2cf136243f7a29a86bc3e270e95,426000,Gender centar,03.6.0,Republika Srpska
+4ff9191f120343178a752d5d64c0e1df,379000,Repub. zavod za standard. i metrolo.,04.1.1,Republika Srpska
+065e85230c914907a88bba1bd16c366f,268000,Odbor državne uprave za žalbe,01.3.1,Republika Srpska
+202f46ee6b7c447ab5c43a9aa6d85725,265000,Repub. komis. za utvrđ. interesa u organ. vlasti RS-a,01.4.0,Republika Srpska
+309a70c661ec4b0d922f8d29520db536,179000,Komisija za žalbe,01.3.1,Republika Srpska
+d678313732fa4a1e84377f9cd4fc6715,131000,Repub. izborna komisija,01.6.0,Republika Srpska
+aff6674cf38f4b3990cfa82f207b6dac,163313000,MUP RS-a,03.1.0,Republika Srpska
+652f9a0dd1a44d03b3070e56598d3979,29842000,Osnovni sudovi RS-a,03.3.0,Republika Srpska
+47dede6bb95140a68e659d75ef1a1ba2,24780000,Kazneno popravni zavodi RS-a,03.4.0,Republika Srpska
+0bad6bbaee16455d8cbc40aec46cdf02,9457000,Okružni sudovi RS-a,03.3.0,Republika Srpska
+6ef313a4260047499cf8d9277c6ad532,8366000,Okružno tužilaštvo RS-a,03.3.0,Republika Srpska
+45faea077c264723806ce9cc3b41167a,5300000,Sudska policija RS-a,03.1.0,Republika Srpska
+0e9ea8c8bcb145d8b5334ed80c638461,4810000,Repub. uprava CZ,03.1.0,Republika Srpska
+5c401b5d5abe4294ad783dfe690d5f82,4377000,Okružni privredni sudovi RS-a,03.3.0,Republika Srpska
+d8a121bb91424ac3a8783e18f6938270,3488000,Pravobranilaštvo RS-a,03.3.0,Republika Srpska
+ada6def81f2b45d6a926df76c398055d,3023000,Min. pravde,01.1.1,Republika Srpska
+fc499a0fde104cd0935e909706df1b0d,2660000,Vrhovni sud RS-a,03.3.0,Republika Srpska
+94da9f1cb21c45beb140dc1d82ef3848,2066000,Specijalno tužilaštvo,03.3.0,Republika Srpska
+189b20776f584c61ab3d9cb9c5ef2d72,1790000,Ustavni sud RS-a,03.3.0,Republika Srpska
+88600f0d42f449fca3b86952ec249cbb,1268000,Centar za pruž. besp. prav. pomoći,03.3.0,Republika Srpska
+e53787343754443d9e94b281b047171e,916000,Viši privredni sud,03.3.0,Republika Srpska
+3ad721680aba459081a7b97d8f270f4a,777000,Ombdusmen za djecu RS-a,03.3.0,Republika Srpska
+b2c106f51e4e48bca3d2b4ecde24ccbe,723000,Repub. tužilaštvo RS-a,03.3.0,Republika Srpska
+b4447187b7ae45b1ae747d2c32c5b46c,436000,Centar za edu.  sudija i javnih tužilaca u RS-u,03.3.0,Republika Srpska
+56e962258acc451aa1d2d248fe6c82a0,234000,Kanc. pravnog predstavnika,03.3.0,Republika Srpska
+da046d1f86954f50a8e9557b719f4474,60741000,Agencija za agrarna plačanja,04.2.1,Republika Srpska
+a70893dfbad84d70adaaaceab0c44b38,29079000,Min. saobračaja i veza,01.1.1,Republika Srpska
+420a807a27764cadb2a09edd2154d0df,23228000,"Min. energije, rudarstva i indust.",01.1.1,Republika Srpska
+4b22d44d2ba24283aabaf724cb2d6c9f,10775000,Min. trgo. i turizma,01.1.1,Republika Srpska
+8900dcb4478f451ba81595499ebd900d,9941000,Min. za ekon. odnose i region. saradnju,01.1.1,Republika Srpska
+bb52faf8328e4016aff996520cd39a11,9051000,"Min. poljoprivr., vodoprivr. I šumarstva",01.1.1,Republika Srpska
+6781e3cd82d14d13bd8bd3b565cb7ede,1639000,Repub. dir. za civ. vazd. plovidbu,04.5.4,Republika Srpska
+bc4983690fc5456098ff8c0000950125,1185000,Vazduhoplovni servis,04.5.4,Republika Srpska
+78bc8ab47ec0400294580994d1429f64,953000,Helikopterski servis,04.5.4,Republika Srpska
+1d8b99627eb84acb82538b280ea8ccab,927000,Agencija za uzgoj i selek. u stočar.,04.9.0,Republika Srpska
+ff40f61294914ece9efe54c8488ee339,806000,Agencija za pruž. struč. usluga u poljopr.,04.9.0,Republika Srpska
+fef7e63fa2844a46ac7597d107dbede9,671000,Repub. zavod za geo. istraž.,04.8.4,Republika Srpska
+dfff263da9ff4155b8dbcbf0de158dfc,582000,Agencija za šume,04.2.2,Republika Srpska
+be64f96d4a4e40a4966a9dfcab562e2d,152000,Agencija za bezbj. saobračaja,04.9.0,Republika Srpska
+0ab2226d82c948b080591e9e7e6f93f6,28935000,Min. zdravlja i soc. zaštite,07.6.0,Republika Srpska
+c594db63c6894f5ba921bf85af7aebd2,429323000,Min. rada i borač. invalid. zaštite,01.1.1,Republika Srpska
+4c64faa250a74694bd973824327f918d,11539000,Min za izbjeglice i raseljena lica,10.7.0,Republika Srpska
+f54243208915431ea3d2e8b765a18ebc,12526000,Institucije kulture,08.2.0,Republika Srpska
+63f1efdb66a344d4812d0fd13315a588,1502000,Repub. sekretar. za vjere,08.4.0,Republika Srpska
+478ba6ae0c8f41f2a6332a757cb8d3b4,1059000,Repub. zavod za zaštitu kult. isto. i pr. naslijeđa,08.2.0,Republika Srpska
+4d1130a3a14540c48b889433587509c8,209673000,Osnovno obrazovanje,09.1.2,Republika Srpska
+832df5802c0d4066ab61540e0ac59624,82266000,Srednje obrazovanje,09.2.2,Republika Srpska
+ff06b44162b6482f8ec56d1a9034085c,60982000,Univerziteti u RS-u,09.4.2,Republika Srpska
+09e2b6ed6c6b42868764320bb6c6ba34,10069000,Specijalno i umjetničko obrazov.,09.3.0,Republika Srpska
+0da0d93bb63b4e2ca0fb57a8ea199f14,9272000,Studentski i đački domovi,09.6.0,Republika Srpska
+6f854b4019844fe788f25e18b5f6bc13,7989000,Min. nauke i tehnologije,01.1.1,Republika Srpska
+f545e042a82c48e28ca76ae754526705,7325000,Min. prosvjete i kulture,01.1.1,Republika Srpska
+66d4de3478184d9cb4a50228a2c957dc,1735000,Repub. pedagoški zavod,09.8.0,Republika Srpska
+1a3a22bda6dd4cac85c9b0d94f5cb973,1357000,Akademija nauka i umj. RS-a,09.4.2,Republika Srpska
+878a4d254a954d2295b27027a618d28b,1268000,Zavod za obrazov. odraslih,09.5.0,Republika Srpska
+abac6eb9869547a5a8711a400a3b5e07,776000,Visoke šk. u RS-u,09.3.0,Republika Srpska
+01fa04c7373a4bc3a513e7a20239753f,7581000,Agencija za vode obl. riječ. sliva Save,05.6.0,Republika Srpska
+617429d015d84bf78c18299ba88b3020,740000,Agencija za vode obl. riječ. sliva Trebišnice,05.6.0,Republika Srpska
+ac5dc8ce088545ffbd84b85aa7605dd4,15762000,Repub. uprava za geo. i imovinsko pravne odnose,06.1.0,Republika Srpska
+ca56200f768c4fa59141d77b8fe65d1c,3936000,"Min. za prost. uređ., građ. i ekolo.",01.1.1,Republika Srpska
+e2521ae514e749aa90a935fe2e7e03f7,627000,Repub. dir. za obnovu i izgrad.,06.2.0,Republika Srpska
+a871d6fe5bd249639349f991392d1d00,3000000,Budžetska rezerva,01.1.2,Republika Srpska
+9b0c7d64d678488a9f93e260be5bd8be,173216300,Otplata unutrašnjeg duga,01.7.0,Republika Srpska
+3198b77a4f6048a5935c4ca8670e9766,155248000,Otplata vanjskog duga,01.7.0,Republika Srpska
+11cbea082c01410288f4824bce6319aa,54436700,Ostalo,01.7.0,Republika Srpska
+87c1d684629345e39f1b3d59f6a5bd23,"5784688,08",Kabinet gradonačelnika,01.1.1,Brčko Distrikt
+fa95654d425e4bdb8ffed869b641ff5d,"5566463,65",Pododjeljenje za imovinsko - pravne poslove,06.6.0,Brčko Distrikt
+20df93b5e7b84e1ea2e33f5c00a16eb5,"2629544,21",Sektor održavanja,01.6.0,Brčko Distrikt
+f0a4f45ed6df4a56b73d080ddb0467b1,"2245464,27",Inspektorat,01.1.1,Brčko Distrikt
+a5dd2322452842c2ba7c58340bb11eec,"2096467,38","Pododjeljenje za podr. MZ, NVO i UG",01.6.0,Brčko Distrikt
+fcf6a6b045da43988fbca226f2346430,"2076700,27",Skupština,01.1.1,Brčko Distrikt
+9a79d13d02bf42999500e0c89e3d783b,"1786533,18",Poreska uprava,01.1.2,Brčko Distrikt
+a3f14834fc7a4c9b8de98ebd7a4723f2,"1621417,93","Pododjeljenje za prostorno plani., urb. i zašt. ok.",06.2.0,Brčko Distrikt
+356b4ee7205a41d88ba2fe1448d00d5b,"1386735,27",Pododjeljenje za katastarske knjige,06.6.0,Brčko Distrikt
+4a33e92a4b56408cb9cce91e88713240,"1357335,1",Trezor,01.1.2,Brčko Distrikt
+223fdff3d0da4995adaca8dd1c6ccefb,"1272090,36",Stručna služba Skupštine,01.1.1,Brčko Distrikt
+71660ae2e0954b1780dd37fd473a7a3c,"961067,66",Ured za reviziju,01.1.2,Brčko Distrikt
+e2b2c4c15d3a48369744526fbb66f74c,"810426,44",Sektor za informacione tehnolo.,01.3.3,Brčko Distrikt
+c122faf58c66409a9242ec367976f2c4,"790177,81",Pododjeljenje za matičnu evidenciju,01.6.0,Brčko Distrikt
+705b89fe8a3b4acca5885fc9d5a2a265,"732129,09",Sektor za informisanje,01.6.0,Brčko Distrikt
+9f014946ad054773a397623d2c37e33c,"711505,2",Pododjeljenje za pisarnicu i zajednič. posl.,01.1.1,Brčko Distrikt
+811f46400f0c490fbac845cac89660a1,697500,Izborna komisija,01.6.0,Brčko Distrikt
+728d4f1ce9ee4cae93068a55ff41d9a8,"676768,35",Pododjeljenje za ljudske resurse,01.3.1,Brčko Distrikt
+009364f5eb754867942a09782b5136d3,"667680,37",Stručna služba Direkcije za finans.,01.1.1,Brčko Distrikt
+44f94fe0f8c14309bf37173ceb10a456,"636661,54",Pododjeljenje za lične dokumente,01.6.0,Brčko Distrikt
+fc0bf264dc624202a4ccaa270f029e55,"612083,04",Sektor za koord. politika i opće poslove,01.1.1,Brčko Distrikt
+9a40dd29b2bb45f38c2d148aa9ac1098,"542667,01",Sektor raspolaganja,01.1.1,Brčko Distrikt
+11f7f33ec0ea44ffb1a5ee6120124025,"375448,53",Kancelarija direktora,01.1.1,Brčko Distrikt
+1b94cf4f87c84594b0f33d7da64791ba,"336433,76",Pododjeljenje za javne nabavke,01.1.2,Brčko Distrikt
+3779066468ed440caf08f838e12a575f,"306232,42",Kancelarija koordinatora BD BiH pri Vijeći min.,01.1.1,Brčko Distrikt
+e6373a52cc744f08ba2990991cffaf45,"279241,98",Komisija za papire od vrijednosti,01.6.0,Brčko Distrikt
+0dfc58533acd464685c520b25b6a1dc4,"273083,54",Sektor za reformu i EU integracije,01.1.3,Brčko Distrikt
+8895aad05cb64404a42af2cad534242b,"261455,92",Ured direktora Direkcije za finans.,01.1.1,Brčko Distrikt
+f8db71ac76ed4373a5ac57019fa8ac06,"253072,16",Zakonodavna kancelarija,01.1.1,Brčko Distrikt
+74e56c56fc814f3280aa98a17e13ae11,"230074,91",Služba za arhiv,01.3.3,Brčko Distrikt
+78b58e57f74142348842371430bd6bd6,"223477,73",Apelaciona komisija,01.3.1,Brčko Distrikt
+b5ce7c6136c0447892b00e08d41ec2e2,"212293,24",Pododjeljenje za izd. dozv. i ovlašt.u građevi.,06.6.0,Brčko Distrikt
+1ff2559e5bb544e9b2069f94fd325715,"202319,41",Pododjeljenje za zajed. posl. i stru. nadzor,01.1.1,Brčko Distrikt
+7c40084174b449aeb21463d5b692cff4,"158390,13",Služba zajedničkih poslova,01.1.1,Brčko Distrikt
+9525491a07004084808789cc328ad1cc,"130686,26",Sektor registra,01.1.1,Brčko Distrikt
+2a2760566da743ba926bac77c20d6d24,"97757,97",Odbor za zapošljavanje,01.3.1,Brčko Distrikt
+a7f78afe625041e3a16911b21589e3e0,"92154,82",Upravna inspekcija,01.1.1,Brčko Distrikt
+56e7b10c0be1453abc0bc245d4c0deef,"87901,98",Sekretarijat Vlade,01.1.1,Brčko Distrikt
+6a913a87a2f24d139a60ddeb251f7351,"10198415,41",Uniformisana krim. policija i dr.,03.1.0,Brčko Distrikt
+f87facb012ab4ce2ae83a6e969b114db,"4149943,59",Pododjeljenje za zašt. i spašav.,03.6.0,Brčko Distrikt
+193f3ede044d424581292b82d8da117e,"3837310,31",Osnovni sud,03.3.0,Brčko Distrikt
+5d7fa6e7265a4437b87b07e52b6e4d62,"2973041,8",Pravosudna komisija,03.3.0,Brčko Distrikt
+38e7caa29989418196b150e86a2f79f0,"1448596,37",Tužilaštvo,03.3.0,Brčko Distrikt
+40a1f830e8034718adf623ca83b17f54,"1047009,83",Apelacioni sud,03.3.0,Brčko Distrikt
+a5987b5466664aaabeda54e5b9a6f4e0,"643557,5",Pravobranilaštvo,03.3.0,Brčko Distrikt
+d93d6c58e66646dca4ecec5e23db4f3a,"500424,97",Administracija,03.6.0,Brčko Distrikt
+cf962c2209794448abf5d996eb8e4a2c,"491171,74",Kancelarija za pravnu pomoć,03.3.0,Brčko Distrikt
+cea00514c4434618af6d01fc72dafee6,"5769182,48",Pododjeljenje za privredni razvoj,04.1.1,Brčko Distrikt
+e37af6ea9db04a4dad95e271159c4789,"8040625,65",Pododjeljnje za poljoprivredu,04.2.1,Brčko Distrikt
+6666cc0ef9a540498b9b6d4f867be516,"2159384,86",Pododjeljenje za šumar. i vodoprivr.,04.9.0,Brčko Distrikt
+8604079d76564d4eb8b8f229ba763424,"931971,95",Pododjeljenje za veterin.,07.6.0,Brčko Distrikt
+09289b0cd2a14ddabde775253cbcb40d,"281668,63",Pododojeljenje za analizu i admin. podršku,04.9.0,Brčko Distrikt
+686adc80dcae40b683ad3df091105519,"15645083,36",Opća bolnica Brčko,07.3.1,Brčko Distrikt
+457b1952d4594eb0bde01c1343c92293,"10603810,76",Služba za admin. i statist. odjeljenja,07.6.0,Brčko Distrikt
+1698b4addcf24475b75a9f0fd3c37ffc,"8326992,34",Zdravstveni centari,07.4.0,Brčko Distrikt
+97eeb935b52249389efdb89e5a465b80,"1203626,76",Pododjeljenje za javno zdravstvo,07.6.0,Brčko Distrikt
+4bb4df9e23794a908e1a00737240ef5b,9770360,Dječiji dodatak,10.4.0,Brčko Distrikt
+939d49d1ac9944e38d3dd56d8664e05b,"3284069,9",Boračko-inv. zaštita i civil. žrtve rata,10.9.0,Brčko Distrikt
+6ef204b236dd4dc09ba7cccd526323a1,1873270,Tuđa pomoć i njega,10.9.0,Brčko Distrikt
+766ec1010da343a5958d6c87cba8fea9,1873000,Stalne novčane pomoći,10.9.0,Brčko Distrikt
+e5457c7b7b99430fbbe1cc9485164a5a,1370000,Jednokratne novč. pomoći umirovljenika,10.2.0,Brčko Distrikt
+328f137d48f1464bab3f00615de24d4a,1100000,Refundacija privr. subjekt. za porod odsust.,10.4.0,Brčko Distrikt
+193a6c9111f24902b090f2cb9649021e,"831553,71",Centar za socijalni rad,10.9.0,Brčko Distrikt
+67bd808a881e400d8429e64862d6cc90,700000,Sredstva za sub. osobama u stanju soc. potreba,10.9.0,Brčko Distrikt
+e76d6f4ae90a47448c3e5e830b2ddb1a,590000,Smještaj maloljet. i punoljet. štićenika u ustanove,10.9.0,Brčko Distrikt
+5468d70f2f4549e4aff279175bacad4a,300000,Izdaci za javnu kuhinju,10.9.0,Brčko Distrikt
+0deac5d06b8544ff934e329b7b4ce7e0,200000,Jednokratne pomoći - 3 Fond Solidarnosti,10.9.0,Brčko Distrikt
+59feed1d32014960b61be9ca7642fc9e,143400,Djeca i odrasli pod starateljstvom,10.4.0,Brčko Distrikt
+1abc9577352346dc8edbf1cb2c4fff70,125160,Materinski dodatak,10.4.0,Brčko Distrikt
+99290bb680554d269d7de3900062bbe0,117350,Oprema za novorođenče,10.4.0,Brčko Distrikt
+893c5939d231485085746a451a9b734f,75000,Nabavka lijekova i trošk. sahrane za korisnike st. soc. pomoći,10.9.0,Brčko Distrikt
+21dfa98948bd4a6f8a100a5f126c2846,"5434422,03",Pododjeljenje za turizam kulturu i sport,08.6.0,Brčko Distrikt
+fbaaa85b3d9e4e4595e9d4980fd5650d,"20358517,26",Osnovno obrazovanje,09.1.2,Brčko Distrikt
+4b1fcae0a54041aca81afacc1d8aaa3f,"9481124,22",Srednje obrazovanje,09.2.2,Brčko Distrikt
+1014af8cc4b3433fa63a2c1c193aa7e2,"3136979,09",Pododjeljenje za zajed. poslove,09.8.0,Brčko Distrikt
+924429355d0640c88bacfb45a87a878b,"1556891,94",Obdenište 'Naša djeca',09.1.1,Brčko Distrikt
+9076639e1ede4f7ba132fb031b4daf97,550820,Pododjeljenje za visoko obrazov. i nauku,09.4.2,Brčko Distrikt
+7bfcab8277ef4c9ba901df7ddffad346,"513314,62",Stručna služba osnovnog obrazovanja,09.8.0,Brčko Distrikt
+ca161039085c4550ac2d4ce0b8d69833,"364881,01",Pododjeljenje za ljud. resur. I zapošljavanje.,09.8.0,Brčko Distrikt
+68ae241e622643aca9e6302ea19bfb84,"261383,86",Pedagoška institucija,09.8.0,Brčko Distrikt
+c127666bbb4b4050847e302c6d8ef59f,"81373,62",Stručna služba srednjeg obrazovanja,09.8.0,Brčko Distrikt
+a78a1a3e63b244aab4e9127eae703467,"11634089,47",Pododjeljenje za puteve i parkove,04.9.0,Brčko Distrikt
+dc715c449af24732892b83a596b0d7df,"4759195,58",Pododjeljenje za javne objekte,04.9.0,Brčko Distrikt
+5b3ffc8b958049edb7de0ba41facdfda,"356324,13",Pododjeljenje za jav. saobrač.i održav.vozila,04.9.0,Brčko Distrikt
+46d905401c144ee6bb47f8b21dc15ad4,"4032876,36","Odjeljenja za raselj. lica, izbjegl. i stamben. pitanja",06.6.0,Brčko Distrikt
+4b33fb42f5604f5d83af864d3ebbfdb6,"3003782,26",Pododjeljenje za kapit. investic.,06.6.0,Brčko Distrikt
+a8e357ff680145bf80f0e2303dc45779,"2051441,7",Pododjeljenje za razvoj i strateg. komun. usluga,06.5.0,Brčko Distrikt
+d3446ae1388b4292b1876fda890344e8,10954914,Domaća i strana pozajmljivanja i otplate duga,01.7.0,Brčko Distrikt
+ac2ccdca8fbf4914948d85bdf5840a6c,1000000,"Sudske presude i rješenja, sudska i vansuds poravnanja",03.3.0,Brčko Distrikt
+df27333ba0d144b6a45ba0eb32f72f4f,"918682,96",Sredstva rezerve,01.1.2,Brčko Distrikt
+bbbf03f961754d87aa95c8022cf307dd,4897740,Ministarstvo finansija,01.1.1,Bosanskopodrinjski kanton
+c30e8cd751bd480ba3ca90195654580c,1236100,Skupština,01.1.1,Bosanskopodrinjski kanton
+efd1459f26c44b46bf47983668e98368,569811,Inspektorat,01.1.1,Bosanskopodrinjski kanton
+5715f322803c4316bfeaecc1f65a068f,487839,Služba za zajedn. poslove,01.1.1,Bosanskopodrinjski kanton
+b0e5b416aaf84c8d95e4ee7935841bee,467652,Vlada,01.1.1,Bosanskopodrinjski kanton
+11449202161c4e6dba9d1605e1ef74b3,194207,Uprava CZ,03.1.0,Bosanskopodrinjski kanton
+b60b62161a8941ffb6428c33eb521625,5092275,Uprava policije,03.1.0,Bosanskopodrinjski kanton
+9507fcc4dbb249668d1433c3e23a0941,1191894,MUP,03.1.0,Bosanskopodrinjski kanton
+7529d7f767974452bd24c331b79f6b59,1008661,Opštinski sud,03.3.0,Bosanskopodrinjski kanton
+8e44d6b68da64ba1b3d128b17682d970,469935,Kantonalni sud,03.3.0,Bosanskopodrinjski kanton
+47368c67bf4f46b5873228edc821b923,232342,Kantonalno tužilaštvo,03.3.0,Bosanskopodrinjski kanton
+15ebc4e902b54306bd0047b3c237128b,232025,"Min. za pravosuđe, upravu i radne odnose",01.1.1,Bosanskopodrinjski kanton
+d885c8fd11e949098ed2bf02070e8cf3,109864,Kantonalno pravobranilaštvo,03.3.0,Bosanskopodrinjski kanton
+7b52d27ac1fe49ee8c5013ef7759c964,29903,Zavod za bespl. pravnu pomoć,03.3.0,Bosanskopodrinjski kanton
+39bfc1aa21174b97be2eea0f639e4836,6051534,Osnovno obrazovanje,09.1.2,Bosanskopodrinjski kanton
+ac7a758aa09d431d995059f40368b46f,3350548,Srednje obrazovanje,09.2.2,Bosanskopodrinjski kanton
+578213305ec4416584d68d5bca15acba,700000,Visoko obrazovanje,09.4.2,Bosanskopodrinjski kanton
+b5de5ff260db4871bcac0ae7e79d7e34,2228347,"Min. za obrazovanje, kulturu i sport",01.1.1,Bosanskopodrinjski kanton
+943b1196210a4f4985e087e4612ff8d8,5060848,Centar za socijalni rad,10.9.0,Bosanskopodrinjski kanton
+94fd7970cd1341d3be3ef57af1ff631a,2185407,"Min. za soc. politiku, zdrav., ras. lica i izbj.",01.1.1,Bosanskopodrinjski kanton
+7d223cb0439846c1bc76ae2bb41b2d8a,1612249,Min. za boračk. pitanja,01.1.1,Bosanskopodrinjski kanton
+a12d0f330ad9483a888cb5850e7d2058,780990,Min. za urban. prostorn. uređenje i zašt. okoliša,06.2.0,Bosanskopodrinjski kanton
+782f9a5a8fce4be5a35f78038c353ff2,2980302,Min. za privredu,01.1.1,Bosanskopodrinjski kanton
+e00d203e9a02445ca7090fa4d133fd0b,2004941,Dir. za ceste,04.5.1,Bosanskopodrinjski kanton
+8045d0e6c46e40f4baf5adcfd6b2ccbd,253257,Kan. uprava za šumarstvo,04.2.2,Bosanskopodrinjski kanton
+3b1cbb2888d140a7b72d29974de1cadf,653886,Dir. robnih rezervi,01.1.1,Bosanskopodrinjski kanton
+4b832f89872d43c5a01de34b93ba01ed,134131,Agencija za privatiz.,04.1.1,Bosanskopodrinjski kanton
+517451464c0c4594b34bcecc483ba548,80906,Služba za odnose sa javnošću,01.1.1,Bosanskopodrinjski kanton
+bf8bdd0fa39b41638a8143ab8196319f,78248,Ured premijera,01.1.1,Bosanskopodrinjski kanton
+adae0107e62548e9bcb4b75a2a723603,69309,Ured za internu reviziju,01.1.1,Bosanskopodrinjski kanton
+dd1c2d5f3b1a4df998a84fb9d53f4c4e,53960,Arhiv,01.3.3,Bosanskopodrinjski kanton
+1879791af1c240faacd6d60d6464832c,8072989,Min. finasija,01.1.1,Hercegovačko-neretvanski kanton
+148fa9e67d08474488f4d6bd9fb1b158,2818426,Ured/kabinet predsjednika Vlade HNŽ/K,01.1.1,Hercegovačko-neretvanski kanton
+b7b506c791c04f3c912c8cc132dfa608,1810980,Skupština HNŽ/K,01.1.1,Hercegovačko-neretvanski kanton
+d2c83f47f14d4f19a1a464d6b6ecbfdf,578840,Struč. služ. Vlade,01.1.1,Hercegovačko-neretvanski kanton
+c6915364cf5b4e9e86841aefd2e7a4cd,410720,Arhiv,01.3.3,Hercegovačko-neretvanski kanton
+4310a16d36d7446e8821ae792585b804,181030,Ured za zakonodavstvo,03.3.0,Hercegovačko-neretvanski kanton
+8606b99414074ce8a99e609449590b62,35052150,MUP HNŽ/K,03.1.0,Hercegovačko-neretvanski kanton
+c369a01824404904b5cfaa617edc85dd,13882271,Min. pravosuđa i uprave,01.1.1,Hercegovačko-neretvanski kanton
+271acfa220ef4679876701c20ccf96ce,1204070,Uprava za CZ i vatrogastvo,03.2.0,Hercegovačko-neretvanski kanton
+f3caf6d09e22440ebdb71e0439c310bd,2596570,Min. za pitanje branitelja/boraca,01.1.1,Hercegovačko-neretvanski kanton
+74471c3c45be42ce8456672a8c26732d,533280,Uprava za progn. i izbjeg.,10.7.0,Hercegovačko-neretvanski kanton
+cb2636ae03584874a84e77eccadba022,41093134,Osnovno obrazovanje,09.1.2,Hercegovačko-neretvanski kanton
+9748f4ae9ffa4da2a4bafc8db3dbe1fd,23892420,Srednje obrazovanje,09.2.2,Hercegovačko-neretvanski kanton
+09f0f48937e549c0b804363ecfa79cfc,7000000,Visoko obrazovanje,09.4.2,Hercegovačko-neretvanski kanton
+1279c96ac84b4cb9981263c65d3db3db,4771250,"Min. prosvj., nauke i kult.",01.1.1,Hercegovačko-neretvanski kanton
+6c30a3874bf84558a0aae25567e10344,423690,Pedagoški zavod Mostar,09.8.0,Hercegovačko-neretvanski kanton
+b29d4ec0ffc44087836ec7889e7e782b,412960,Zavod za školstvo Mostar,09.8.0,Hercegovačko-neretvanski kanton
+a2687b426c6543f7b9ad4138fde4cd6f,11429750,"Min. zdravstva, rada i soc. skrb.",07.6.0,Hercegovačko-neretvanski kanton
+7b30851e1173441a8b56487241799a67,700000,"Kultura, šport i teološki institut",08.6.0,Hercegovačko-neretvanski kanton
+0fd54b568cd345c3a100a48592d3d7dd,210000,Narodna knjižnica/biblioteka,08.2.0,Hercegovačko-neretvanski kanton
+afde57d4d940495c8afbb33e2e03da5f,110760,Zavod za zaštitu kul. povj. baštine,08.2.0,Hercegovačko-neretvanski kanton
+0a602292e68b425d9cbd656930cf595e,8148700,"Min. poljopr., šuma i vodoprivr.",01.1.1,Hercegovačko-neretvanski kanton
+c3f0d5e39d0b4897b307e5c430c11858,6264710,Min. prometa i veza,01.1.1,Hercegovačko-neretvanski kanton
+5e1000d0e7194f67b45502f57fc0078d,3198980,"Min. trgov., turiz i zaštite okoliša",01.1.1,Hercegovačko-neretvanski kanton
+8e607ddc5fa8473ea49820a45f5381c4,2183500,Min. gospodarstva/privrede,04.1.1,Hercegovačko-neretvanski kanton
+7f40232933fd4a8084e8b8397b9bb049,1760760,Min. graditelj. i prostornog uređenj.,01.1.1,Hercegovačko-neretvanski kanton
+1390b1a0314e49bdb1b836311275d9c7,400690,Uprava za geo. i imov.-pravn. poslove,06.1.0,Hercegovačko-neretvanski kanton
+340ec8da85e64101addc87d489a6fc9e,9434916,Min. finasija,01.1.1,Kanton 10
+ddb0734eb9c74235b3a37a07243d0ad3,1843363,Skupština,01.1.1,Kanton 10
+2f5cafa567d443188af4d5580e96da7e,1581025,Vlada,01.1.1,Kanton 10
+9129b85bf0ee4c71859beb06d5df5cdf,1195801,Uprava za inspekc.posl.,01.1.1,Kanton 10
+aa6c6db775364671a7096dfd7f07c8f4,126094,Ured za zakonodavstvo,03.3.0,Kanton 10
+3fd189e72ab24ca480f803578b9b5a88,12261900,MUP,03.1.0,Kanton 10
+a69ae6ced76c4e559527ff5a9234a0bc,4597738,Min. pravosuđ. i uprave,01.1.1,Kanton 10
+40c72e7b190b4ab095ef290cb59831da,727371,Uprava za CZ,03.1.0,Kanton 10
+d4555536a83e4137a4c1d6ab8d4749f3,2777752,Uprava za ceste,04.5.1,Kanton 10
+9c3666cec3bc485994dfac85aeceea91,2018758,"Min. poljopr., vodopr. i šumar.",01.1.1,Kanton 10
+5983c2d14455403fbaf90fd251c7532e,1351077,Min. gospodarstva,01.1.1,Kanton 10
+4976fb8dd43245288e6f0af148c0f2b6,1011960,Uprava za šumar.,04.2.2,Kanton 10
+72cd344dcf234b4fa8bcea80df625f4a,72304,Direk. robnih rezervi,01.1.1,Kanton 10
+11306e1cae394078b32232ac5a092527,3870505,"Min. zdrav., rada, soc. skrbi i prognan.",07.6.0,Kanton 10
+d8e081ee136248169c233f3618970846,1700342,Uprava za pitanje branitelja,10.9.0,Kanton 10
+150aabe46c344dc1ab91b6375bd49c6f,15067153,Osnovno obrazovanje,09.1.2,Kanton 10
+99af2ce6a1bb404a8cb6feb0632f0d52,8220551,Srednje obrazovanje,09.2.2,Kanton 10
+48fb02ba4edc4de2b45d24e899a590dd,720000,Visoko obrazovanje,09.4.2,Kanton 10
+198a7372cd944d318d58be0d9f709b2f,1524156,"Min. znanosti,prosvj., kult. i športa",01.1.1,Kanton 10
+a5864fdaa0364b2c9df1a1da61899d42,609745,Min. graditeljstva,01.1.1,Kanton 10
+92f8452c16214b3e91aba2d76609a08f,140382,Uprava za geo. imo.-pravne poslove,06.1.0,Kanton 10
+0182f93bca9d4f4083da5a909a0fb481,43170900,Vlada,01.1.1,Kanton Sarajevo
+aa6b632df4ab4e018122d2b27c5c8498,28258600,Min. finansija,01.1.1,Kanton Sarajevo
+afb0d1502ecf48909a35af1c6676bd27,4540000,Stručna služ. za zajednič. poslove,01.1.1,Kanton Sarajevo
+fcdd518cf0a7418395660f8a73e4c82a,2990900,Skupština,01.1.1,Kanton Sarajevo
+955af078ad7e4735821366fa96b9c79b,512900,Zavod za informatiku i statistiku,01.3.3,Kanton Sarajevo
+ecf72010ea7640acbe669b73cc6cc5e6,66967800,MUP,03.1.0,Kanton Sarajevo
+927201274398430b9c69da14379fb51f,35274200,Min.pravde i uprave,01.1.1,Kanton Sarajevo
+9af1e96b08a5494798c376accea9675e,6643000,Prof. vatrogasna brigada KS,03.2.0,Kanton Sarajevo
+78765d6a1cea4acb8bebd0ebde4c5076,3510900,Kantonalna uprava CZ,03.1.0,Kanton Sarajevo
+fb32d6eb01484284a1f39b56723e3817,250200,Kant. zavod za pružanje bespl. prav. pomoći,03.3.0,Kanton Sarajevo
+fe20b68ca7574560aa76937fad109cc2,50957500,Min. saobračaja,01.1.1,Kanton Sarajevo
+4bfe274d08a245c7ae807836f91ff0ac,19837000,Min. privrede,01.1.1,Kanton Sarajevo
+79c8d62bb63443f4bf5071c8466d0ec2,3653900,Zavod za planiranje razvoja KS,06.2.0,Kanton Sarajevo
+d6be9f68a180403f9a36c5d81d145a8e,3594300,Direkcija za robne rezerve,01.1.1,Kanton Sarajevo
+7bddbf1f817648d6aa8b1410161e8fae,5525900,Min. zdravstva,07.6.0,Kanton Sarajevo
+e2374f585972485e97ddcf138abef1a5,87096300,Min. za rad soc. politiku raselj. lica i izbjeg.,10.7.0,Kanton Sarajevo
+1d8bd7b0617640278dab27769a9dc531,29614500,Min. za boračka pitanja,01.1.1,Kanton Sarajevo
+bd3c1da6bccb47aba910b1f730466259,28325500,Min. kulture i sporta,08.6.0,Kanton Sarajevo
+625d7693855d46119e6f88a91ae57193,86308500,Min. obrazov. i nauke,01.1.1,Kanton Sarajevo
+0e85b235d29e467195143433d1b5ab3f,86308500,Osnovno obrazovanje,09.1.2,Kanton Sarajevo
+9de454ae08b44fef8a44f12ad5b0a4e7,55895800,Srednje obrazovanje,09.2.2,Kanton Sarajevo
+e9a8ab117a7d409b8f0a0adb5948d1fe,66053900,Visoko obrazovanje,09.4.2,Kanton Sarajevo
+ab8a0d888cac40c09191bf6e328bafca,7749900,Vrtići,09.1.1,Kanton Sarajevo
+8bd875c5d8ef4f1185d2fcb462b3f584,55616600,Min. prostor. uređenja i zaštitu okoliša,01.1.1,Kanton Sarajevo
+b9c466488408452ca466ef1d47c1022f,5914800,Min. stambene politike,01.1.1,Kanton Sarajevo
+05e7a7dfd5284e9895901cd04947a49d,2122000,Zavod za izgradnju KS,06.2.0,Kanton Sarajevo
+b3afc84aa016407aa8b46c74f45009c6,200000,Tekuća rezerva,01.1.2,Kanton Sarajevo
+6b86536c7fd24ca9b28a84b86ce40234,35000000,Višak rashoda nad prihodima,01.1.2,Kanton Sarajevo
+60a9b540e51d4291a9cc1b15ea8cfcb9,1524900,Min. finasija,01.1.1,Posavski kanton
+a0ac860620b7479eb65473a3bb5a2c6a,887000,Vlada,01.1.1,Posavski kanton
+6b865e59d00b42ac9f4337bdbdf40d3e,759400,Skupština,01.1.1,Posavski kanton
+d953a2b3820d44a494a5d5bad8b1de7c,538100,Zajednička služba Vlade,01.1.1,Posavski kanton
+59375c12f62b4370b6a54fa12339d5cd,337100,Uprava za inspek. poslove,01.1.1,Posavski kanton
+9ad2557cfdc74127a67d882195b4d148,5427700,MUP,03.1.0,Posavski kanton
+924afaed7c2d474c9bc9feccd81dec40,1728200,Min. pravosuđ. i uprave,03.3.0,Posavski kanton
+ad627993617444c6a0c20d1afda6e86e,597300,Kantonalni sud Odžak,03.3.0,Posavski kanton
+1a27126779fa4402bb9df099e720353a,494600,Kantonalno tužiteljstvo,03.3.0,Posavski kanton
+f9634a102c0342ccb446364aab46326d,291500,Uprava za CZ,03.1.0,Posavski kanton
+86669031b71a4ca8a89813fca09e46c3,75000,Županijsko javno pravobranitelj.,03.3.0,Posavski kanton
+2a2b2082706e4c608141f73d13607810,2929400,"Min poljopr., vodoprivr. i šumarstv.",01.1.1,Posavski kanton
+9e02d845e0ec42599d675c5cf96f288d,1064200,"Min. promet veza, turiz. i zašt. okoliša",01.1.1,Posavski kanton
+2ef61c24dd774938a0f76a8e244a57ab,648700,Min. gospodars. i prost. uređenja,04.1.1,Posavski kanton
+26d568e0eb2e416eb3e5b796d48e9978,180000,Agencija za privatizaciju,04.9.0,Posavski kanton
+eff448ef8b934d9dbf382ce4052862b4,7031900,Osnovno obrazovanje,09.1.2,Posavski kanton
+c94dd02e038349709dac185b6948b102,3185450,Srednje obrazovanje,09.2.2,Posavski kanton
+9d9b111ddee742488411a0f19f4255ca,1062350,"Min. prosvj., zanan., kulture i sporta",01.1.1,Posavski kanton
+0bfe84db334d41b39bf3046892bf6175,1593700,"Min. zdravstva, rada i soc. politike",07.6.0,Posavski kanton
+7676d7785aff4389aac119c05cae663e,688100,Min. branitelja,10.9.0,Posavski kanton
+91849d429fe04020b97d508b7aa4f0a2,5279900,Min. finansija,01.1.1,Srednjebosanski kanton
+8f05dd98ea0941a8a5690e4f57604be0,2798200,Skupština,01.1.1,Srednjebosanski kanton
+4cf55905a96f4f6a97d6fdcce53f55d5,1656500,Vlada SBK,01.1.1,Srednjebosanski kanton
+187c6f226ace45758a9faed46d06096c,349100,Kanton. arhiv,01.3.3,Srednjebosanski kanton
+d8ccdd39ba3d49929ec20a90e8992278,33921400,MUP,03.1.0,Srednjebosanski kanton
+eb33336614734fcaaeb6dcfe33b6e9eb,8966500,Općinski sudovi,03.3.0,Srednjebosanski kanton
+5047409ead094f68986bbbe14bfbb383,2602300,Kanton. uprava za CZ,03.3.0,Srednjebosanski kanton
+734529d7b04e4a46ad84e1150ddabbae,2281400,Kantonalni sud,03.3.0,Srednjebosanski kanton
+eaed557b79024c20b8d46be3e327281c,1606000,Kanton. tužilaštvo SBK,03.3.0,Srednjebosanski kanton
+f7b8ed835b614a00aae7d00dbe0df812,508500,Min. pravosuđ. i uprave,01.1.1,Srednjebosanski kanton
+3c06a045d6f44da1bf0cad83e4ba597c,237100,Kanton. javno pravobr.,03.3.0,Srednjebosanski kanton
+80cbfca3dd0f45f2bec6075fdc0b86e8,6546500,"Min. šumar., poljopr. i vodopr.",01.1.1,Srednjebosanski kanton
+a0d1759a3a7c4759aa8fb162fafbe9e1,3352500,Min. privrede,04.1.1,Srednjebosanski kanton
+fe1a8072add640e5987cd249a2b9fcc7,10772300,Min. zdrav. i soc. politike,07.6.0,Srednjebosanski kanton
+beefc0c2ab2a42ebbb33ab969e2e566b,4467100,Kanton. uprava za pitanja borac i inv odb.-oslob. Rata,10.9.0,Srednjebosanski kanton
+1c44fa5d185a427c9864d0f59a85d0e6,46479743,Osnovno obrazov.,09.1.2,Srednjebosanski kanton
+23e33fe7b6444b03983cc8c0aca48dc2,22434100,Srednje obrazov.,09.2.2,Srednjebosanski kanton
+89c93e1967094e828b8dd7a52a9162c9,3500000,Visoko obrazovanje,09.4.2,Srednjebosanski kanton
+232fd016d8844ddc9c0696bb315cd2a7,5251300,"Min. obrazov., nauke, kult. i sporta",01.1.1,Srednjebosanski kanton
+ea2ce70a1fe14352bdefa9c417997de9,2484300,"Min. prostr.uređenja, obn. i povrat.",01.1.1,Srednjebosanski kanton
+a95b0066c4284f8392f1645b876cac5a,235200,Kant. uprava za geo. i imov-pravne posl.,04.8.4,Srednjebosanski kanton
+75a6be4e070044cb828453786d00127d,219900,"Kanton. zavod za urb., prost. plan. i zašt. kult. histo. naslije.",06.2.0,Srednjebosanski kanton
+d4408a75f49d40ac906c39065d9d1f78,1380000,Tekuća rezerva,01.1.2,Srednjebosanski kanton
+a328ac2bcb854d719a4f807eb24860f1,"14322740,17",Vlada,01.1.1,Tuzlanski kanton
+eda322b0b82f4caa8b5f5f36ae4d0719,"9718097,88",Min. finansija,01.1.1,Tuzlanski kanton
+df48035bbe154f8f89e2031c62aa11d2,3722329,Uprava za inspek. poslove,01.1.1,Tuzlanski kanton
+4b8f504a03c341088d42a8fd4f02e7a3,"2700499,99",Skupština,01.1.1,Tuzlanski kanton
+b83cd3397cb2481ba5d951bb21daf450,1419265,Ured za zajed. poslove,01.1.1,Tuzlanski kanton
+1ebda5523862463eaabfb5ffac322e44,17947918,"Min. poljop., šumar. i vodopr.",01.1.1,Tuzlanski kanton
+e41e83d2f479478294c5b77c23fce6de,2640722,"Min. ind., energ. i rudarstva",01.1.1,Tuzlanski kanton
+195f3d4a402b458b8eb7780f818e39a5,1187574,"Min. trgov., turizma i saobrač.",01.1.1,Tuzlanski kanton
+321a9f360c474afdaca70add6fcc47aa,1122512,Min. razvoja i poduzetništva,04.1.1,Tuzlanski kanton
+081cc959cbf24dc09576283d081c5c6c,137722,Direkc. robnih rezervi,01.1.1,Tuzlanski kanton
+a55a4b1669294b7899fc4e1f27b2a759,"51273205,37",MUP,03.1.0,Tuzlanski kanton
+65598b6d3bc14e81a74dc4520170f147,22175941,Min. pravosuđ. i uprave,01.1.1,Tuzlanski kanton
+af73b1e8787842a88966c84d99d14da8,3773120,Uprava CZ,03.1.0,Tuzlanski kanton
+e6c1eeb0368944e6a01a1b519aaee594,"77085752,33",Osnovno obrazovanje,09.1.2,Tuzlanski kanton
+84bf64e47d4d437684f925dc81135875,"44338611,9",Srednje obrazovanje,09.2.2,Tuzlanski kanton
+ea52c241ff504ac99d4dd4810ab3d858,39405642,Visoko obrazovanje,09.4.2,Tuzlanski kanton
+bf8aabe5c34c45abafd1a0b9ca791abd,7544590,"Min. obraz. nauke, kult. i sporta",01.1.1,Tuzlanski kanton
+a4db421726e54b7fa607fd19c1e89cdf,"643195,17",Pedagoški zavod,09.8.0,Tuzlanski kanton
+e05c714409a34ebd93f27e8fc2acdb3a,419964,Min. zdravstva,07.6.0,Tuzlanski kanton
+6016fcbdca314c268071e23ebb4f5c20,38373067,Min. za rad soc. politiku i povratak,10.9.0,Tuzlanski kanton
+abc79968c9c8460494a66a39ab525b40,12550851,Min. za socij. pitanja,01.1.1,Tuzlanski kanton
+6c0e1af2a738464090c3e0059b1ce5d2,2656827,Min. prosto. uređenja i zaštite okolice,01.1.1,Tuzlanski kanton
+30611eb68ba949619ebfa1fe268c5242,3712433,Vlada,01.1.1,Unsko-sanski kanton
+bcb2b376117d4739b33b7e9aecad5f27,3254795,Služ. a stručne i zajednič. poslove,01.1.1,Unsko-sanski kanton
+6d309099953d45348c1e0b331c8a78d0,2992324,Min. finansija,01.1.1,Unsko-sanski kanton
+ef7eaa6b900a452196086fce04e1788e,2274625,Skupština,01.1.1,Unsko-sanski kanton
+4d818ca35c0f48dbbee85964f4f67dd1,1694138,Kanton. uprava za inspekc. poslove,01.1.1,Unsko-sanski kanton
+08792a72ce1d444b89e025e9340a046b,388736,Kabinet premijera,01.1.1,Unsko-sanski kanton
+659208b43c784055a810bb2e8f5d43fd,210786,Ured za zakonodavstvo,01.1.1,Unsko-sanski kanton
+97ea6dc2c7724d8fb833c1c84313f545,8000,Ured za zajedničke poslove,01.1.1,Unsko-sanski kanton
+e8bc04eddab14846bbe3a2caeff1b831,6534,Ured Vlade,01.1.1,Unsko-sanski kanton
+2c08474baac248fdb0ed3920e521dee9,31344225,MUP,03.1.0,Unsko-sanski kanton
+cf2a04c68aef4e0a9d501231300400cd,9236496,Općinski sudovi,03.3.0,Unsko-sanski kanton
+47d8df17e84a4ff5a8a0f0859254b7d4,2551563,Kanton. tužilaštvo,03.3.0,Unsko-sanski kanton
+d420076caa5e4b47b0cf997d2fc573d0,2528479,Kantonalni sud,03.3.0,Unsko-sanski kanton
+949bd75d0cb2401794cfb3dfd976ff7c,807869,Kanton. uprava CZ,03.3.0,Unsko-sanski kanton
+1b6a4a615119465e87b0386db0f1cd88,473631,Min. pravosuđa i uprave,01.1.1,Unsko-sanski kanton
+8e4d51a02403452dabbe32a8ecfbd386,175250,Kanton. pravobranilaštvo,03.3.0,Unsko-sanski kanton
+41f1ed52cdad476eb31d9fa472c1d8b7,120059,Kanton. zavod za bespl. pravnu pomoć,03.3.0,Unsko-sanski kanton
+9b0d0573241c46b2853c24c57088a33f,8969466,"Min poljopr., vodopr. i šumar.",01.1.1,Unsko-sanski kanton
+d23aef29f0694d65baa03bb73a7dc952,2734482,Min. privrede,04.1.1,Unsko-sanski kanton
+3b84e1efb3744a09be594e23e10cfc56,2061229,Kanton. uprava za šumar.,04.2.2,Unsko-sanski kanton
+941e9f126afe488c83aa5a041dc0f685,560862,Poljopr. zavod,04.2.1,Unsko-sanski kanton
+900878f7a65d4020af3b815035b94661,155341,Komisija za koncesije,04.1.1,Unsko-sanski kanton
+5d8f7f5b90f54f4c995538f4794db1a8,12726418,Min. zdravstva i soc. politike,07.6.0,Unsko-sanski kanton
+0e83a9107a904f7ab9ea72c8bd1884aa,6370865,Min. za pitanja bor. i RVI,01.1.1,Unsko-sanski kanton
+1dac02f2d99041ff91100043e7cce9f0,1023929,"JU ""Soc.-pedag. životna zajednica""",10.9.0,Unsko-sanski kanton
+7daa57c833b447678ccfd44265696c5b,1206342,Institucije kulture,08.2.0,Unsko-sanski kanton
+7a89624092244dc8b013f6dc681b5dd4,48144230,Osnovno obrazov.,09.1.2,Unsko-sanski kanton
+f0707240a4bb4c1dab0240df131d65b2,23076026,Srednje obrazov.,09.2.2,Unsko-sanski kanton
+4b6f9f74f44f4bb582a92e8012bd8455,11154068,Visoko obrazov.,09.4.2,Unsko-sanski kanton
+d5cc8d02dfe44bd68ea3576c580c31bf,8654702,"Min. obraz., nauke i kult.",01.1.1,Unsko-sanski kanton
+a6df9626ab1146978ca91cf39317a4e0,349470,JU Pedagoški zavod,09.8.0,Unsko-sanski kanton
+0179fe9c2ba04f28b0266d73d5819418,1597289,"Min. za građ., prost uređ. i zašt. okoline",01.1.1,Unsko-sanski kanton
+17d0514548364354aaef4ad0f6b77805,103533,Kant. uprava za geo. i imov-pravne posl.,06.1.0,Unsko-sanski kanton
+18897f8b06ff488ba249c4003b7c974f,103520,Kanton. zavod za prostr. uređenje i plan.,06.2.0,Unsko-sanski kanton
+8097b1adfe0f443a98bd9234bf850c05,14228284,Obaveze iz prethodne godine,01.1.2,Unsko-sanski kanton
+5eeadbea7d594240add3cb30216c3d74,3712880,Min. finansija,01.1.1,Zeničko-Dobojski kanton
+985fca077c7b4a569e98c4d1acbbf972,2629303,Služba za zajedn. poslove,01.1.1,Zeničko-Dobojski kanton
+b738b7cc142b42dbbd708ca90d7f1d37,2245928,Uprava za inspekc. poslove,01.1.1,Zeničko-Dobojski kanton
+ff5948a5bb7b4073a1fdae7fd85fd447,1625053,Skupština,01.1.1,Zeničko-Dobojski kanton
+d10e0cdf75b641bbab3dfb2449b7931d,1365444,Stručna sl. Vlade,01.1.1,Zeničko-Dobojski kanton
+359dfbe9ddbb4212b4edfa4aa716a345,630489,Ured premijera,01.1.1,Zeničko-Dobojski kanton
+de6102c8328c4558a3f22f5689344157,40824207,MUP,03.3.0,Zeničko-Dobojski kanton
+a2a6a42d7a24474688b354c4378769ec,16749106,Min. pravosuđe i upravu,01.1.1,Zeničko-Dobojski kanton
+40a5077d98554f158e388854acae1bbf,2068150,Uprava CZ,03.3.0,Zeničko-Dobojski kanton
+a3806abc0c0847399ffaf3f09d83d6b1,12725197,Min za poljopr. šumar. i vodopr.,01.1.1,Zeničko-Dobojski kanton
+90be5badabf94b219b586d550101a77d,12435046,"Min. za prost. uređ., promet i komun. i zašt. okoline",01.1.1,Zeničko-Dobojski kanton
+54ba69c4d8054380ab84c4cd32efe97e,4302066,Min. za privredu,04.1.1,Zeničko-Dobojski kanton
+6cb4392726914de79937bcf8a3135b9f,179646,Direkcija za robne rezerve,01.1.1,Zeničko-Dobojski kanton
+0556660e51de4b3fb54138eb687246f8,66287737,Osnovno obrazovanje,09.1.2,Zeničko-Dobojski kanton
+c2d8d224e1d74c6d946a681330be7670,36609952,Srednje obrazovanje,09.2.2,Zeničko-Dobojski kanton
+c2c78967b7e54dc8a731c40972496109,14643943,Visoko obrazovanje,09.4.2,Zeničko-Dobojski kanton
+14842125c6d84b0997aa194a9adf2f2a,13275887,Min za obraz. nauku kult. i sport,01.1.1,Zeničko-Dobojski kanton
+bf158da4cc0f4853a91f660e034e8b26,1303587,Glazbena škola Žepče,09.8.0,Zeničko-Dobojski kanton
+bbd613446d8e46f8bb33cd5d90f5e4c9,741920,Đački dom,09.6.0,Zeničko-Dobojski kanton
+9d4e344cd8df4348b08e1cb280e3d77e,530024,Pedagoški zavod,09.8.0,Zeničko-Dobojski kanton
+48eaea032db6449fa55e919305edba9a,1546814,Min. zdravstva,07.6.0,Zeničko-Dobojski kanton
+499adce7691f449ab1e94bf2dfc7e2be,26828041,"Min. za rad, soc. pol. i izbjeglice",10.9.0,Zeničko-Dobojski kanton
+b9a0fee90627455396be887634fed443,9195647,Min. za boračka pitanja,01.1.1,Zeničko-Dobojski kanton
+9d21d833e2cf42b59edf9956b107ada8,100000,Tekuća budžetska rezerva,01.1.2,Zeničko-Dobojski kanton
+26deb862aca340b0aaf422d8797f3efc,7859700,Vlada,01.1.1,Zapadnohercegovački kanton
+b288e6260db24f9eb3d109960e64d393,6243100,Min. finansija,01.1.1,Zapadnohercegovački kanton
+609b200a742f4a4c906fee92dcf05146,1088500,Skupština,01.1.1,Zapadnohercegovački kanton
+cd73743fae5a43aa9fcd58d218fdffab,838100,Uprava za inspek. poslove,01.1.1,Zapadnohercegovački kanton
+7f28776490c8425ab38fa80dde85622e,131900,Arhiv,01.3.3,Zapadnohercegovački kanton
+c0d08fbca9c74f1187d9ccbdcf3fe192,68000,Ured za zakonodavstvo,01.1.1,Zapadnohercegovački kanton
+d8f59ae0f853443389636d91d8d289d9,12128300,MUP,03.1.0,Zapadnohercegovački kanton
+880d0b7db98f44a0ac78b70fdd6e6c7c,1947900,Općinski sudovi,03.3.0,Zapadnohercegovački kanton
+1171648f9fdf43e9a64a5f0e40f8e6fc,651800,Županijski sud ŠB,03.3.0,Zapadnohercegovački kanton
+efef47e429ef4533af251f7df37e6300,499400,Županijsko javno tužiteljstvo ŠB,03.3.0,Zapadnohercegovački kanton
+f71ec6350e124754bc5a6c3dba9502b6,455500,Uprava za CZ,03.1.0,Zapadnohercegovački kanton
+76b82625965446b792190be906cc64d6,393600,Min. pravosuđa i uprave,03.3.0,Zapadnohercegovački kanton
+c118806ff7794d3aa043e37f2bd613e7,117150,Županijsko javno pravobr. ŠB,03.3.0,Zapadnohercegovački kanton
+e8b6db6627ef44ba94fd6f6f79068e8c,109000,Županijski zavod za pravnu pomoć,03.3.0,Zapadnohercegovački kanton
+4f2c3332f79e4615843ff809a6d4232b,3424400,Min. gospodarstva,04.1.1,Zapadnohercegovački kanton
+669d9d2f641b495d94eedebf4bedf113,1603300,Uprava za ceste,04.5.1,Zapadnohercegovački kanton
+0227f0d8383244dcad8e72efdb1d62bb,202200,Zavod za poljopr.,04.2.1,Zapadnohercegovački kanton
+25af93c082314f43a2d2bbb0aed4f2b6,4337200,"Min. zdrav., rada i soc. skrbi",01.1.1,Zapadnohercegovački kanton
+d9b8e2e3c514414b8ba4c01488622b87,113400,Zavod za javno zdravstvo,07.6.0,Zapadnohercegovački kanton
+e80c196511bb400dbfae425280908bbd,1356864,Min. hr. branitelja iz domov. rata,10.7.0,Zapadnohercegovački kanton
+e6a0f17d15b54c75ac6d38f07de3ec77,21252896,Osnovno obrazovanje,09.1.2,Zapadnohercegovački kanton
+cc95e1f6e69540d29726419006a3cc8b,8638250,Srednje obrazovanje,09.2.2,Zapadnohercegovački kanton
+7701b36d133e4adeab0b33a44292b11b,2228100,"Min. obrazov., kult. i sporta",01.1.1,Zapadnohercegovački kanton
+349b7f32495544dcba89a5bc3b18a8dc,1051000,"Min. prost. uređ., resursa i zašt. okoliša",06.2.0,Zapadnohercegovački kanton
+a7e1b64a680642068a692df1c7c2cc79,142800,Uprava za geo. i imovinsko pravne odnose,06.1.0,Zapadnohercegovački kanton
